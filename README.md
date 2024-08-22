@@ -23,15 +23,12 @@ I'm a Grade 9 Technical student at Kalika Manavgyan School in Butwal, Nepal. As 
 ### Portfolio Website
 A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and Tailwind CSS. (Currently under construction)
 
-### AI Video Transcriber
-An AI model for transcribing videos into English. Currently in development.
-
 ### Student Question Paper Repository
 An app that allows students to view old term question papers uploaded by trusted administrators and teachers. Features different user roles with varying permissions.
 
-## GitHub Stats
-
-!Prarambha Bashyal's GitHub stats
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@bashyalnp177097/30-nites-of-code)  
+  ![@bashyalnp177097 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bashyalnp177097)
 
 ## Connect with Me
 
