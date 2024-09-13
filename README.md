@@ -13,7 +13,7 @@
         <img src="https://skillicons.dev/icons?i=discord" height="25" width="25"/>
     </a>ㅤ
     <a href="">
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="25" width="25"/>
+        <img src="https://imgs.search.brave.com/Rc78o56j5u_3UTro6q-YVykyAqwIVFzw5DPUEYuR0DU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n" height="25" width="25"/>
     </a>
     <br>
     <a href="">
