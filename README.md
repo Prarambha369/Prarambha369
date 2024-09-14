@@ -51,6 +51,6 @@
 
 <div align="center" id="stats">
     <a href="">
-        <img src="https://github-readme-stats.vercel.app/api?username=Prarambha369&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=edbbce&icon_color=fc90af&ring_color=efdcce"\>
+        <img src="https://github-readme-stats.vercel.app/api?username=Prarambha369&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=false&text_color=edbbce&icon_color=fc90af&ring_color=efdcce"\>
     </a>
 </div>
