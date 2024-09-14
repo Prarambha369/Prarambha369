@@ -9,17 +9,17 @@
     <h3>
       S O C I A L S 
     </h3>
-    <a href="">
+    <a href="https://discord.gg/7PXGPeRJpk">
         <img src="https://skillicons.dev/icons?i=discord" height="25" width="25"/>
     </a>ㅤ
-    <a href="">
+    <a href="https://www.instagram.com/prarambhabashyal/">
         <img src="https://imgs.search.brave.com/Rc78o56j5u_3UTro6q-YVykyAqwIVFzw5DPUEYuR0DU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n" height="25" width="25"/>
     </a>
     <br>
-    <a href="">
+    <a href="https://www.facebook.com/PrarambhaBashyal">
         <img src="https://imgs.search.brave.com/CY2Ll1DNhGXtW6Pk4M8Bw4Cisi2SCjplTrGTNZo1uVM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL2ltYWdlX2dh/bGxlcnkyL0ZhY2Vi/b29rLVBORy1QaWN0/dXJlLnBuZw" height="25" width="25"/>
     </a>ㅤ
-<a href="">
+<a href="https://www.linkedin.com/in/misterbashyal/">
         <img src="https://imgs.search.brave.com/70K1X_0S4br42k7eCr9YmeDwr1uFQiSbIOsAkyR0auE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/Ny9MaW5rZWRpbi1U/cmFuc3BhcmVudC5w/bmc" height="25" width="25"/>
 </a>
 </div>
