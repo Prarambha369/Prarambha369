@@ -1,6 +1,6 @@
 <div align="center" id="header">
     <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=100&color=efdcce&center=true&random=true&width=435&height=60&lines=I+am++Pebo+CodeZ;I+am++Parom+Gamez;I+am+Mister+Bashyal;I+am+Prarambha+Bashyal;I+am+Wispy+GameZ;I+am+Parom+Boat" alt="Typing SVG" /></a>
+        <a href="https://pebo.codes"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=100&color=efdcce&center=true&random=true&width=435&height=60&lines=I+am++Pebo+CodeZ;I+am++Parom+Gamez;I+am+Mister+Bashyal;I+am+Prarambha+Bashyal;I+am+Wispy+GameZ;I+am+Parom+Boat" alt="Typing SVG" /></a>
 <br>
 </h1>
 </div>
