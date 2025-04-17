@@ -35,7 +35,7 @@
 <div align="center" id="languages">
     <h2>L A N G U A G E S</h2>
     <a href="">
-        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=235&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Time+Not+used+to++touch+some+grass&layout=compact&cache_seconds=0&langs_count=12"
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=235&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Time+Not+used+to++touch+some+grass&layout=compact&cache_seconds=0&langs_count=5"
              alt="WakaTime Stats" style="max-width: 100%; height: auto;" />
     </a>
 </div>
