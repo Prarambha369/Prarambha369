@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · 🌙 Clear Sky · 🌡️ 26.34°C · 📅 BS: Unknown (API Down)
+**Current Status:** Sleeping... Zzz 💤 · 🌙 Clear Sky · 🌡️ 25.85°C · 📅 BS: 0 Baishakh, 2082
 
 </div>
 <!-- WEATHER_END -->
