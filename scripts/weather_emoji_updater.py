@@ -124,7 +124,7 @@ def update_readme(data):
     else:
         status_text = f"{data['time_emoji']} {data['time_label']} · {data['weather_emoji']} {data['condition']} · 🌡️ {data['temp']} · 💧 {data['humidity']}"
 
-    new_block = f"{start_marker}\n<div align=\"center\">\n\n> **Current Status:** {status_text}\n\n</div>\n<!-- WEATHER_END -->"
+new_block = f"{start_marker}\n<div align=\"center\">\n\n**Current Status:** {status_text}\n\n</div>\n<!-- WEATHER_END -->"
 
     # Regex to find existing block
     pattern = re.compile(f"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
