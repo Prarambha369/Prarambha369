@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** 🌤️ Loading...
+> **Current Status:** 🌞 Noon · ☀️ Clear Sky · 🌡️ 36.36°C · 💧 12%
 
 </div>
 <!-- WEATHER_END -->
