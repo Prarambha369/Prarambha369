@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-> **Current Status:** 🌞 Noon · ☀️ Clear Sky · 🌡️ 36.36°C · 💧 12%
+ **Current Status:** 🌞 Noon · ☀️ Clear Sky · 🌡️ 36.36°C · 💧 12%
 
 </div>
 <!-- WEATHER_END -->
@@ -215,7 +215,7 @@ Filesystem           Depth    Proficiency Level
 │                                                                    │
 │   OPEN TO:                                                         │
 │   → OSS Collaboration                                              │
-│   → Fellowships                             │
+│   → Fellowships                                                   │
 │   → Internships (Full-Stack · Systems Engineering)                │
 │   → Global Sponsorships                                            │
 │                                                                    │
