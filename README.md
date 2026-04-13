@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
- **Current Status:** 🌞 Noon · ☀️ Clear Sky · 🌡️ 36.36°C · 💧 12%
+**Current Status:** Night Owl Coding 🦉 · ☀️ Clear Sky · 🌡️ 26.91°C · 📅 BS: ??-??-??
 
 </div>
 <!-- WEATHER_END -->
