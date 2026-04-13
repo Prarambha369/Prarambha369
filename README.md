@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · 🌙 Clear Sky · 🌡️ 26.91°C · 📅 BS: 2081-??-??
+**Current Status:** Exam Mode: ON 📚 · 🌙 Clear Sky · 🌡️ 26.34°C · 📅 BS: Unknown (API Down)
 
 </div>
 <!-- WEATHER_END -->
