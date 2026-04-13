@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ☀️ Clear Sky · 🌡️ 26.91°C · 📅 BS: ??-??-??
+**Current Status:** Cramming Syntax 🧠 · 🌙 Clear Sky · 🌡️ 26.91°C · 📅 BS: 2081-??-??
 
 </div>
 <!-- WEATHER_END -->
