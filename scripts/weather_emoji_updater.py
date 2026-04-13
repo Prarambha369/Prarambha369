@@ -1,110 +1,108 @@
 import os
 import re
-import requests
 import random
+import requests
 from datetime import datetime
+import nepali_datetime as npd
 
 # Configuration
-GITHUB_USERNAME = "Prarambha369"
 README_FILE = "README.md"
 LOCATION = "Butwal,NP"
 OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
-# --- STUDENT & NEPALI CONTEXT DATA ---
+# --- STUDENT SLANGS & LOGIC ---
 
-def get_student_slang(hour, is_weekend, is_holiday, is_exam_season):
+def get_student_status(hour, is_weekend, is_holiday, is_exam_season):
     """Returns a random student/developer slang based on context."""
     
-    # Base slangs by time of day
-    time_slangs = {
-        "dawn": ["Booting OS", "Morning Coffee", "Hello World", "Waking Up Daemons"],
-        "morning": ["Compiling Code", "Attending Virtual Class", "Git Pushing", "Debugging Life"],
-        "noon": ["Peak CPU Usage", "Lunch Break", "Merge Conflicts", "Stack Overflowing"],
-        "afternoon": ["Refactoring Spaghetti", "LeetCode Grinding", "Building Projects", "Caffeine Injection"],
-        "evening": ["Deploying to Prod", "Group Project Chaos", "Committing Changes", "Pushing Deadlines"],
-        "night": ["Late Night Grind", "Bug Hunting", "Ramen & Code", "Insomnia Coding"],
-        "midnight": ["Garbage Collection", "System Sleep", "Dreaming in Binary", "Recharging Batteries"]
-    }
-
-    # Special Context Overrides
+    # Priority 1: Holidays (Nepali or Global)
     if is_holiday:
-        return random.choice([
-            "Touching Grass", "Offline Mode", "Festival Mode Activated", 
-            "No Code Today", "Celebrating Dashain/Tihar", "Family Time"
-        ])
-    
-    if is_weekend:
-        return random.choice([
-            "Weekend Hackathon", "Side Project Mode", "Gaming Session", 
-            "Open Source Contributing", "Learning New Stack", "Restoring RAM"
-        ])
+        holiday_slangs = [
+            "Holiday Mode: ON 🎉", "Touching Grass 🌱", "No Code Today 🚫",
+            "Festival Vibes 🪁", "Family Time > Code Time 👨‍👩‍👦"
+        ]
+        return random.choice(holiday_slangs)
 
+    # Priority 2: Exam Season (Roughly mid-Nov to Jan & Apr-Jun in Nepal)
     if is_exam_season:
-        return random.choice([
-            "Exam Mode: ON", "Cramming Syllabus", "Mem Leaks in Brain", 
-            "Studying Algorithms", "Skipping Sleep for Grades", "Finals Week"
-        ])
+        exam_slangs = [
+            "Exam Mode: ON 📚", "Cramming Syntax 🧠", "Debugging Life 🆘",
+            "Coffee IV Drip ☕", "Sleep = 0ms 💀", "Compiling Notes 📝"
+        ]
+        return random.choice(exam_slangs)
 
-    # Normal Student Life
-    period = "morning"
-    if 4 <= hour < 6: period = "dawn"
-    elif 6 <= hour < 11: period = "morning"
-    elif 11 <= hour < 15: period = "noon"
-    elif 15 <= hour < 18: period = "afternoon"
-    elif 18 <= hour < 21: period = "evening"
-    elif 21 <= hour < 24: period = "night"
-    else: period = "midnight"
+    # Priority 3: Weekend (Saturday in Nepal)
+    if is_weekend:
+        weekend_slangs = [
+            "Weekend Build 🛠️", "Side Project Hustle 🚀", "Git Push Force 💪",
+            "Refactoring Life 🔄", "Gaming Session 🎮", "Sleeping In 💤"
+        ]
+        return random.choice(weekend_slangs)
 
-    return random.choice(time_slangs[period])
+    # Priority 4: Weekday Time Slots
+    if 4 <= hour < 7:
+        return random.choice(["Early Bird Compile 🐦", "Morning Boot Sequence 🌅"])
+    elif 7 <= hour < 10:
+        return random.choice(["Commute to Class 🚌", "First Lecture Snore 😴", "Coffee Loading ☕"])
+    elif 10 <= hour < 14:
+        return random.choice(["Lab Session Active 🧪", "Copying Code from Friend 🤫", "Lunch Break Buffer 🍱"])
+    elif 14 <= hour < 17:
+        return random.choice(["Afternoon Slump 📉", "Fighting Sleep 😪", "Last Lecture Stretch 🏃"])
+    elif 17 <= hour < 20:
+        return random.choice(["Project Grinding 🛠️", "Hackathon Mode 🌙", "Deadline Approaching ⚠️"])
+    elif 20 <= hour < 23:
+        return random.choice(["Night Owl Coding 🦉", "Bug Hunting 🐛", "StackOverflow Surfer 🏄"])
+    else:
+        return random.choice(["Midnight Deploy 🌑", "Sleeping... Zzz 💤", "RAM Clearing 🧹"])
 
-def check_nepali_context(local_dt):
-    """Checks for Nepali holidays, weekends, and exam seasons."""
-    is_weekend = local_dt.weekday() >= 4  # Friday (4) & Saturday (5) are weekends in Nepal
-    
-    day = local_dt.day
-    month = local_dt.month
-    
-    # Approximate Exam Seasons for Nepali Students (Often Mangshir/Poush or Jestha/Ashad)
-    # Adjust these months based on your specific academic calendar
-    is_exam_season = month in [5, 6, 11, 12] # May/June or Nov/Dec approx
-
-    # Simple AD/Nepali Festival Checks (Approximate Gregorian dates for major festivals)
-    # For precise BS dates, you'd need the 'nepali-datetime' library installed in the action
-    is_holiday = False
-    holiday_name = ""
-
-    # Dashain/Tihar approx (Sept/Oct)
-    if month == 10 and 15 <= day <= 30: 
-        is_holiday = True
-        holiday_name = "Dashain/Tihar Season"
-    # Nepali New Year approx (Mid April)
-    elif month == 4 and day >= 10:
-        is_holiday = True
-        holiday_name = "Nepali New Year"
-    # Christmas
-    elif month == 12 and day == 25:
-        is_holiday = True
-        holiday_name = "Christmas"
+def check_nepali_context():
+    """Checks for BS date, Holidays, and Exam Season."""
+    try:
+        today_np = npd.today()
+        bs_date = f"{today_np.year}-{today_np.month:02d}-{today_np.day:02d}"
         
-    return is_weekend, is_holiday, is_exam_season
+        # Check for Nepali Holidays (Library has built-in list)
+        # Note: nepali_datetime holiday support varies by version, using basic check
+        is_holiday = False 
+        # Simple logic: If it's a major festival month (approx)
+        # Dashain/Tihar usually Sept/Oct (Ashwin/Kartik)
+        if today_np.month in [7, 8]: 
+            is_holiday = True # Rough approximation for festive season
+        
+        # Check for Saturday (Weekend in Nepal)
+        # weekday() returns 0=Mon ... 5=Sat, 6=Sun (Gregorian)
+        # We map Gregorian Saturday/Sunday to Nepal weekend
+        today_ad = datetime.now()
+        is_weekend = (today_ad.weekday() == 5) # Saturday
 
-# --- EXISTING HELPER FUNCTIONS ---
+        # Exam Season Logic (Nepal Universities)
+        # Winter: Nov-Jan (Month 11, 12, 1)
+        # Summer: Apr-Jun (Month 4, 5, 6)
+        current_month = today_ad.month
+        is_exam_season = (current_month in [11, 12, 1, 4, 5, 6])
 
-def get_fallback_data():
+        return {
+            "bs_date": bs_date,
+            "is_weekend": is_weekend,
+            "is_holiday": is_holiday,
+            "is_exam_season": is_exam_season
+        }
+    except Exception as e:
+        print(f"⚠️ Nepali DateTime error: {e}")
+        return {"bs_date": "??-??-??", "is_weekend": False, "is_holiday": False, "is_exam_season": False}
+
+# --- WEATHER & TIME FUNCTIONS ---
+
+def get_fallback_data(context):
     now = datetime.utcnow()
     utc_offset = 5.75
-    local_dt = datetime.fromtimestamp(now.timestamp() + (utc_offset * 3600))
-    hour = local_dt.hour
+    local_hour = datetime.fromtimestamp(now.timestamp() + (utc_offset * 3600)).hour
     
-    is_weekend, is_holiday, is_exam_season = check_nepali_context(local_dt)
-    status_label = get_student_slang(hour, is_weekend, is_holiday, is_exam_season)
-
+    status = get_student_status(local_hour, context['is_weekend'], context['is_holiday'], context['is_exam_season'])
+    
     return {
-        "status_label": status_label,
+        "status_text": f"{status} · 📅 BS: {context['bs_date']}",
         "weather_emoji": "🌤️",
-        "condition": "Data Unavailable",
-        "temp": "--",
-        "humidity": "--",
         "is_fallback": True
     }
 
@@ -113,8 +111,7 @@ def get_weather_emoji(condition_id, cloudiness):
     if 300 <= condition_id < 600: return "🌧️"
     if 600 <= condition_id < 700: return "❄️"
     if 700 <= condition_id < 800: return "🌫️"
-    if condition_id == 800: 
-        return "☀️" if cloudiness < 20 else "🌤️"
+    if condition_id == 800: return "☀️" if cloudiness < 20 else "🌤️"
     if 801 <= condition_id < 900:
         if cloudiness < 40: return "🌤️"
         if cloudiness < 80: return "⛅"
@@ -122,9 +119,10 @@ def get_weather_emoji(condition_id, cloudiness):
     return "🌍"
 
 def fetch_weather_data():
+    context = check_nepali_context()
+    
     if not OPENWEATHER_API_KEY:
-        print("⚠️ No API Key found. Using fallback data.")
-        return get_fallback_data()
+        return get_fallback_data(context)
 
     try:
         url = f"http://api.openweathermap.org/data/2.5/weather?q={LOCATION}&appid={OPENWEATHER_API_KEY}&units=metric"
@@ -134,8 +132,7 @@ def fetch_weather_data():
 
         now = datetime.utcnow()
         utc_offset = 5.75
-        local_dt = datetime.fromtimestamp(now.timestamp() + (utc_offset * 3600))
-        hour = local_dt.hour
+        local_hour = datetime.fromtimestamp(now.timestamp() + (utc_offset * 3600)).hour
 
         weather = data['weather'][0]
         main = data['main']
@@ -143,20 +140,22 @@ def fetch_weather_data():
         condition_id = weather['id']
         cloudiness = data.get('clouds', {}).get('all', 0)
         
-        is_weekend, is_holiday, is_exam_season = check_nepali_context(local_dt)
-        status_label = get_student_slang(hour, is_weekend, is_holiday, is_exam_season)
+        # Generate Student Slang
+        status_msg = get_student_status(local_hour, context['is_weekend'], context['is_holiday'], context['is_exam_season'])
+        
+        status_text = (f"{status_msg} · "
+                       f"{get_weather_emoji(condition_id, cloudiness)} {weather['description'].title()} · "
+                       f"🌡️ {main['temp']}°C · "
+                       f"📅 BS: {context['bs_date']}")
 
         return {
-            "status_label": status_label,
+            "status_text": status_text,
             "weather_emoji": get_weather_emoji(condition_id, cloudiness),
-            "condition": weather['description'].title(),
-            "temp": f"{main['temp']}°C",
-            "humidity": f"{main['humidity']}%",
             "is_fallback": False
         }
     except Exception as e:
         print(f"⚠️ Error fetching weather: {e}. Using fallback.")
-        return get_fallback_data()
+        return get_fallback_data(context)
 
 def update_readme(data):
     with open(README_FILE, 'r') as f:
@@ -165,12 +164,9 @@ def update_readme(data):
     start_marker = "<!-- WEATHER_START -->"
     end_marker = "<!-- WEATHER_END -->"
     
-    if data['is_fallback']:
-        status_text = f"**{data['status_label']}** in Butwal 🇳🇵 · ☁️ Waiting for API Key"
-    else:
-        status_text = f"**{data['status_label']}** · {data['weather_emoji']} {data['condition']} · 🌡️ {data['temp']} · 💧 {data['humidity']}"
-
-    new_block = f"{start_marker}\n<div align=\"center\">\n\n> Current Status: {status_text}\n\n</div>\n<!-- WEATHER_END -->"
+    new_block = (f"{start_marker}\n<div align=\"center\">\n\n"
+                 f"**Current Status:** {data['status_text']}\n\n"
+                 f"</div>\n{end_marker}")
 
     pattern = re.compile(f"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
     
@@ -183,7 +179,7 @@ def update_readme(data):
     with open(README_FILE, 'w') as f:
         f.write(new_content)
     
-    print(f"✅ README updated: {status_text}")
+    print(f"✅ README updated: {data['status_text']}")
     return True
 
 if __name__ == "__main__":
