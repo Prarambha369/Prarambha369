@@ -2,225 +2,208 @@ import os
 import re
 import random
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Configuration
 README_FILE = "README.md"
 LOCATION = "Butwal,NP"
 OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")
+USER_BIRTHDAY_AD = (8, 20)  # Month, Day (August 20)
 
-# --- HARDCODED OFFICIAL NEPALI CALENDAR (2083 - 2085) ---
-# Source: Official Nepali Calendar (Ministry Data)
-# Format: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+# --- HARDCODED NEPALI CALENDAR (2082 - 2090 BS) ---
+# Days in each month for years 2082 to 2090
+# Index 0 = Baishakh, 1 = Jestha, ... 11 = Chaitra
 NEPALI_CALENDAR_DATA = {
-    2083: [30, 31, 31, 31, 31, 31, 30, 29, 30, 29, 30, 30], # Baishakh 1 = Apr 14, 2026
-    2084: [30, 31, 31, 32, 31, 30, 30, 30, 29, 29, 30, 30],
-    2085: [30, 31, 31, 31, 31, 30, 30, 30, 29, 30, 29, 30]
+    2082: [31, 32, 31, 32, 31, 30, 29, 30, 29, 30, 30, 30], # Chaitra 2082 has 30 days (ends Apr 13)
+    2083: [31, 32, 31, 32, 31, 30, 29, 30, 29, 30, 30, 30], # Starts Apr 14, 2026
+    2084: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30],
+    2085: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30],
+    2086: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30],
+    2087: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30],
+    2088: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30],
+    2089: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30],
+    2090: [31, 31, 32, 31, 31, 30, 30, 29, 30, 29, 30, 30]
 }
 
-BS_MONTH_NAMES = [
-    "Baishakh", "Jestha", "Ashad", "Shrawan", "Bhadra", "Ashoj",
+MONTH_NAMES = [
+    "Baishakh", "Jestha", "Ashadh", "Shrawan", "Bhadra", "Ashwin",
     "Kartik", "Mangsir", "Poush", "Magh", "Falgun", "Chaitra"
 ]
 
-# Anchor Date: Baishakh 1, 2083 BS = April 14, 2026 AD
-# We calculate offset from this known fixed point.
-# For dates BEFORE April 14, 2026, we need a previous anchor.
-# Anchor 2: Baishakh 1, 2082 BS = April 14, 2025 AD
-# Let's use a simpler approach: Calculate total days from a fixed past date.
-# Fixed Point: Jan 1, 2000 AD was Magh 17, 2056 BS (Approx). 
-# BETTER APPROACH: Hardcode the Start Day of Year for each year to avoid complex math errors.
+# Anchor Date: April 14, 2026 = Baishakh 1, 2083
+# We calculate backwards/forwards from this point
+ANCHOR_AD = datetime(2026, 4, 14)
+ANCHOR_BS_YEAR = 2083
+ANCHOR_BS_MONTH = 0 # 0-indexed (Baishakh)
+ANCHOR_BS_DAY = 1
 
-# Start Day of Year (Day of AD year when BS New Year starts)
-# Format: { BS_Year: (AD_Year, Month, Day) }
-BS_NEW_YEAR_STARTS = {
-    2082: (2025, 4, 14),
-    2083: (2026, 4, 14),
-    2084: (2026, 4, 14), # Wait, 2084 starts in 2027? Yes.
-    # Correction: BS year spans two AD years. 
-    # 2083 BS starts April 14, 2026 and ends April 13, 2027.
-    # 2084 BS starts April 14, 2027.
-    # 2085 BS starts April 13, 2028 (approx, usually 13 or 14).
-}
-
-# Let's refine the mapping for accurate calculation
-# Map BS Year -> (Start_AD_Date_Object, Days_In_Months_List)
-def get_bs_date(ad_date):
-    """Converts AD datetime to BS String using hardcoded tables."""
+def get_nepali_date(ad_date):
+    """Calculates BS Date from AD Date using hardcoded data."""
+    # Calculate days difference from anchor
+    delta_days = (ad_date.date() - ANCHOR_AD.date()).days
     
-    # Define full year maps with start dates
-    # Note: You may need to verify exact start dates for 2084/2085 as they approach
-    # Based on standard patterns:
-    calendar_map = {
-        2082: {"start": datetime(2025, 4, 14), "days": [30, 31, 31, 31, 31, 31, 30, 29, 30, 29, 30, 30]},
-        2083: {"start": datetime(2026, 4, 14), "days": [30, 31, 31, 31, 31, 31, 30, 29, 30, 29, 30, 30]},
-        2084: {"start": datetime(2027, 4, 14), "days": [30, 31, 31, 32, 31, 30, 30, 30, 29, 29, 30, 30]},
-        2085: {"start": datetime(2028, 4, 13), "days": [30, 31, 31, 31, 31, 30, 30, 30, 29, 30, 29, 30]}
+    current_year = ANCHOR_BS_YEAR
+    current_month = ANCHOR_BS_MONTH
+    current_day = ANCHOR_BS_DAY
+    
+    if delta_days >= 0:
+        # Move forward
+        for _ in range(delta_days):
+            days_in_current_month = NEPALI_CALENDAR_DATA[current_year][current_month]
+            if current_day < days_in_current_month:
+                current_day += 1
+            else:
+                current_day = 1
+                if current_month < 11:
+                    current_month += 1
+                else:
+                    current_month = 0
+                    current_year += 1
+    else:
+        # Move backward
+        for _ in range(abs(delta_days)):
+            if current_day > 1:
+                current_day -= 1
+            else:
+                if current_month > 0:
+                    current_month -= 1
+                else:
+                    current_year -= 1
+                    current_month = 11
+                current_day = NEPALI_CALENDAR_DATA[current_year][current_month]
+                
+    return current_year, current_month, current_day
+
+def check_nepali_context(ad_date):
+    """Checks for BS date, Holidays, Birthday, and Exam Season."""
+    bs_year, bs_month, bs_day = get_nepali_date(ad_date)
+    bs_date_str = f"{bs_day} {MONTH_NAMES[bs_month]}, {bs_year}"
+    
+    # 1. Check Birthday (August 20)
+    is_birthday = (ad_date.month == USER_BIRTHDAY_AD[0] and ad_date.day == USER_BIRTHDAY_AD[1])
+    
+    # 2. Check Major Festivals (Approximate dates for logic)
+    is_festival = False
+    festival_name = ""
+    
+    # Nepali New Year (Baishakh 1)
+    if bs_month == 0 and bs_day == 1:
+        is_festival = True
+        festival_name = "Nepali New Year 🎉"
+    
+    # Dashain Approx (Ashwin 10-15)
+    elif bs_month == 5 and 10 <= bs_day <= 15:
+        is_festival = True
+        festival_name = "Dashain Vibes 🪁"
+        
+    # Tihar Approx (Kartik 12-15)
+    elif bs_month == 6 and 12 <= bs_day <= 15:
+        is_festival = True
+        festival_name = "Tihar Lights 🪔"
+        
+    # Buddha Jayanti (Baishakh Full Moon - approx day 18)
+    elif bs_month == 0 and bs_day == 18:
+        is_festival = True
+        festival_name = "Buddha Jayanti 🕯️"
+
+    # 3. Weekend (Saturday)
+    is_weekend = (ad_date.weekday() == 5) # Saturday in Nepal
+    
+    # 4. Exam Season (Nov-Jan & Apr-Jun)
+    current_month = ad_date.month
+    is_exam_season = (current_month in [11, 12, 1, 4, 5, 6])
+    
+    # 5. Remove Student Slang after 2085
+    is_student_era = bs_year <= 2085
+
+    return {
+        "bs_date": bs_date_str,
+        "bs_year": bs_year,
+        "is_weekend": is_weekend,
+        "is_festival": is_festival,
+        "festival_name": festival_name,
+        "is_birthday": is_birthday,
+        "is_exam_season": is_exam_season,
+        "is_student_era": is_student_era
     }
 
-    target_year = None
-    days_diff = None
-    
-    # Find which BS year the AD date falls into
-    for bs_year, data in calendar_map.items():
-        start_date = data["start"]
-        # Calculate end date roughly (start + 365/366)
-        # We just check if ad_date >= start_date
-        if ad_date >= start_date:
-            target_year = bs_year
-            days_diff = (ad_date - start_date).days
-    
-    if target_year is None:
-        # Fallback for dates before 2082 or after 2085
-        return "Unknown Date"
+# --- SLANG GENERATOR ---
 
-    # Check if days_diff exceeds the total days in this BS year
-    total_days_in_year = sum(calendar_map[target_year]["days"])
+def get_status_message(hour, context):
+    """Returns a random status message based on context."""
     
-    if days_diff >= total_days_in_year:
-        # It belongs to the next year (logic handles by loop order usually, but here explicit)
-        # Since we iterate ascending, if it's bigger than current, it might be next.
-        # But our loop picks the *last* one that started before today.
-        # If diff > total, it means we are actually in the NEXT year cycle, 
-        # but our map might not have the next year start defined perfectly in this simple loop.
-        # Robust fix: Iterate and break when we find the range.
-        pass 
-
-    # Refined Logic: Iterate to find the specific year range
-    sorted_years = sorted(calendar_map.keys())
-    final_bs_year = None
-    final_offset = 0
-    
-    for i, bs_year in enumerate(sorted_years):
-        start_curr = calendar_map[bs_year]["start"]
-        
-        # Determine end of this BS year (start of next)
-        if i + 1 < len(sorted_years):
-            end_curr = calendar_map[sorted_years[i+1]]["start"]
-        else:
-            # Last defined year: assume 365 days ahead
-            end_curr = start_curr.replace(year=start_curr.year+1) 
-            
-        if start_curr <= ad_date < end_curr:
-            final_bs_year = bs_year
-            final_offset = (ad_date - start_curr).days
-            break
-            
-    if final_bs_year is None:
-        return "Out of Range (2082-2085)"
-
-    # Calculate Month and Day
-    months_days = calendar_map[final_bs_year]["days"]
-    remaining_days = final_offset # 0-indexed day of year
-    
-    bs_month_idx = 0
-    bs_day = 0
-    
-    for idx, days_in_month in enumerate(months_days):
-        if remaining_days < days_in_month:
-            bs_month_idx = idx
-            bs_day = remaining_days + 1 # 1-indexed
-            break
-        remaining_days -= days_in_month
-    
-    month_name = BS_MONTH_NAMES[bs_month_idx]
-    return f"{bs_day} {month_name}, {final_bs_year}"
-
-# --- STUDENT SLANGS & LOGIC ---
-
-def get_student_status(hour, is_weekend, is_holiday, is_exam_season):
-    """Returns a random student/developer slang based on context."""
-    
-    if is_holiday:
-        holiday_slangs = [
-            "Holiday Mode: ON 🎉", "Touching Grass 🌱", "No Code Today 🚫",
-            "Festival Vibes 🪁", "Family Time > Code Time 👨‍👩‍👦"
+    # Priority 1: BIRTHDAY (Highest Priority)
+    if context['is_birthday']:
+        birthday_slangs = [
+            "Level Up! Happy Birthday! 🎂", 
+            "It's My Birthday! 🥳 Code can wait.", 
+            "Birthday Mode: ON 🎈 Cake > Coffee",
+            "Another Year Wiser 🧠 Debugging Life since today!",
+            "Happy Birthday to Me! 🚀 Deploying new age..."
         ]
-        return random.choice(holiday_slangs)
+        return random.choice(birthday_slangs)
 
-    if is_exam_season:
+    # Priority 2: Festivals
+    if context['is_festival']:
+        return f"{context['festival_name']} · Celebrating!"
+
+    # Priority 3: Exam Season (Only if student era)
+    if context['is_exam_season'] and context['is_student_era']:
         exam_slangs = [
             "Exam Mode: ON 📚", "Cramming Syntax 🧠", "Debugging Life 🆘",
             "Coffee IV Drip ☕", "Sleep = 0ms 💀", "Compiling Notes 📝"
         ]
         return random.choice(exam_slangs)
 
-    if is_weekend:
+    # Priority 4: Weekend
+    if context['is_weekend']:
         weekend_slangs = [
             "Weekend Build 🛠️", "Side Project Hustle 🚀", "Git Push Force 💪",
             "Refactoring Life 🔄", "Gaming Session 🎮", "Sleeping In 💤"
         ]
         return random.choice(weekend_slangs)
 
-    if 4 <= hour < 7:
-        return random.choice(["Early Bird Compile 🐦", "Morning Boot Sequence 🌅"])
-    elif 7 <= hour < 10:
-        return random.choice(["Commute to Class 🚌", "First Lecture Snore 😴", "Coffee Loading ☕"])
-    elif 10 <= hour < 14:
-        return random.choice(["Lab Session Active 🧪", "Copying Code from Friend 🤫", "Lunch Break Buffer 🍱"])
-    elif 14 <= hour < 17:
-        return random.choice(["Afternoon Slump 📉", "Fighting Sleep 😪", "Last Lecture Stretch 🏃"])
-    elif 17 <= hour < 20:
-        return random.choice(["Project Grinding 🛠️", "Hackathon Mode 🌙", "Deadline Approaching ⚠️"])
-    elif 20 <= hour < 23:
-        return random.choice(["Night Owl Coding 🦉", "Bug Hunting 🐛", "StackOverflow Surfer 🏄"])
+    # Priority 5: Time of Day
+    # Adjust slang pool based on Student Era vs Pro Era
+    if context['is_student_era']:
+        time_slangs = {
+            "morning": ["Commute to Class 🚌", "First Lecture Snore 😴", "Coffee Loading ☕"],
+            "noon": ["Lab Session Active 🧪", "Copying Code 🤫", "Lunch Break Buffer 🍱"],
+            "afternoon": ["Afternoon Slump 📉", "Fighting Sleep 😪", "Last Lecture Stretch 🏃"],
+            "evening": ["Project Grinding 🛠️", "Hackathon Mode 🌙", "Deadline Approaching ⚠️"],
+            "night": ["Night Owl Coding 🦉", "Bug Hunting 🐛", "StackOverflow Surfer 🏄"],
+            "midnight": ["Midnight Deploy 🌑", "Sleeping... Zzz 💤", "RAM Clearing 🧹"]
+        }
     else:
-        return random.choice(["Midnight Deploy 🌑", "Sleeping... Zzz 💤", "RAM Clearing 🧹"])
+        # Post-2085 (Professional/Founder Mode)
+        time_slangs = {
+            "morning": ["System Boot ☕", "Morning Standup 🗣️", "Architecting Day 🏗️"],
+            "noon": ["Deep Work Mode 🧠", "Code Review 👀", "Lunch & Learn 🍱"],
+            "afternoon": ["Scaling Systems 📈", "Meeting Marathon 🏃", "Optimizing DB ⚡"],
+            "evening": ["Shipping Features 🚢", "Open Source Contrib 🌍", "Mentoring Juniors 🎓"],
+            "night": ["Silent Coding 🌙", "Security Patching 🔒", "Strategy Planning 🧭"],
+            "midnight": ["Server Maintenance 🛠️", "Global Deploy 🌐", "Recharging... 🔋"]
+        }
 
-def check_nepali_context(ad_now):
-    """Checks for BS date, Holidays, and Exam Season."""
-    
-    # 1. Calculate BS Date using our hardcoded function
-    bs_date_str = get_bs_date(ad_now)
-    
-    # 2. Weekend (Saturday)
-    is_weekend = (ad_now.weekday() == 5)
-    
-    # 3. Exam Season (Nepal Universities: Nov-Jan & Apr-Jun)
-    # Note: Apr 14 is New Year, so exams usually start late April/May
-    current_month = ad_now.month
-    is_exam_season = (current_month in [11, 12, 1, 5, 6]) # Adjusted May/June for post-new-year exams
-    
-    # 4. Simple Holiday Heuristic (Dashain/Tihar approx)
-    # Dashain: Ashoj/Kartik (Sept/Oct), Tihar: Kartik (Oct/Nov)
-    is_holiday = False
-    if ad_now.month in [10, 11]: # Oct/Nov high chance
-        is_holiday = True
-        
-    return {
-        "bs_date": bs_date_str,
-        "is_weekend": is_weekend,
-        "is_holiday": is_holiday,
-        "is_exam_season": is_exam_season
-    }
+    if 5 <= hour < 10: slot = "morning"
+    elif 10 <= hour < 14: slot = "noon"
+    elif 14 <= hour < 17: slot = "afternoon"
+    elif 17 <= hour < 21: slot = "evening"
+    elif 21 <= hour < 24: slot = "night"
+    else: slot = "midnight"
 
-# --- WEATHER & TIME FUNCTIONS ---
+    return random.choice(time_slangs[slot])
 
-def get_fallback_data(context):
-    now = datetime.utcnow()
-    utc_offset = 5.75
-    local_hour = int((now.hour + utc_offset) % 24)
-    # Fix minute drift for hour calculation
-    if now.minute > 0:
-        # simplistic, but fine for hour buckets
-        pass
-    
-    status = get_student_status(local_hour, context['is_weekend'], context['is_holiday'], context['is_exam_season'])
-    
-    return {
-        "status_text": f"{status} · 📅 BS: {context['bs_date']}",
-        "weather_emoji": "🌤️",
-        "is_fallback": True
-    }
+# --- WEATHER FUNCTIONS ---
 
 def get_weather_emoji(condition_id, cloudiness, local_hour):
-    # Force Night/Day logic based on Local Hour first
-    is_night = (local_hour < 6 or local_hour >= 19)
+    # Force Night/Day logic for emoji regardless of API description
+    is_night = (local_hour >= 20 or local_hour < 5)
     
     if is_night:
         if 200 <= condition_id < 600: return "⛈️" # Storm/Rain at night
-        if 600 <= condition_id < 800: return "🌫️" # Fog/Snow
-        return "🌙" # Clear night
+        if condition_id == 800: return "🌙" # Clear night
+        return "☁️" # Cloudy night
     
     # Day logic
     if 200 <= condition_id < 300: return "⛈️"
@@ -235,17 +218,21 @@ def get_weather_emoji(condition_id, cloudiness, local_hour):
     return "🌍"
 
 def fetch_weather_data():
-    ad_now = datetime.utcnow()
+    now_ad = datetime.utcnow()
+    # Nepal Time UTC+5:45
     utc_offset = 5.75
-    # Calculate precise local hour
-    local_timestamp = ad_now.timestamp() + (utc_offset * 3600)
-    local_dt = datetime.fromtimestamp(local_timestamp)
-    local_hour = local_dt.hour
+    local_dt = now_ad.timestamp() + (utc_offset * 3600)
+    local_now = datetime.fromtimestamp(local_dt)
+    local_hour = local_now.hour
     
-    context = check_nepali_context(ad_now) # Pass UTC now, function handles conversion internally if needed, but here we pass AD now
+    context = check_nepali_context(local_now)
     
     if not OPENWEATHER_API_KEY:
-        return get_fallback_data(context)
+        status = get_status_message(local_hour, context)
+        return {
+            "status_text": f"{status} · 📅 BS: {context['bs_date']}",
+            "is_fallback": True
+        }
 
     try:
         url = f"http://api.openweathermap.org/data/2.5/weather?q={LOCATION}&appid={OPENWEATHER_API_KEY}&units=metric"
@@ -255,29 +242,26 @@ def fetch_weather_data():
 
         weather = data['weather'][0]
         main = data['main']
-        
         condition_id = weather['id']
         cloudiness = data.get('clouds', {}).get('all', 0)
         
-        # Generate Student Slang
-        status_msg = get_student_status(local_hour, context['is_weekend'], context['is_holiday'], context['is_exam_season'])
-        
-        # Get Weather Emoji (Time-aware)
-        w_emoji = get_weather_emoji(condition_id, cloudiness, local_hour)
+        status_msg = get_status_message(local_hour, context)
+        weather_icon = get_weather_emoji(condition_id, cloudiness, local_hour)
         
         status_text = (f"{status_msg} · "
-                       f"{w_emoji} {weather['description'].title()} · "
+                       f"{weather_icon} {weather['description'].title()} · "
                        f"🌡️ {main['temp']}°C · "
                        f"📅 BS: {context['bs_date']}")
 
-        return {
-            "status_text": status_text,
-            "weather_emoji": w_emoji,
-            "is_fallback": False
-        }
+        return {"status_text": status_text, "is_fallback": False}
+        
     except Exception as e:
-        print(f"⚠️ Error fetching weather: {e}. Using fallback.")
-        return get_fallback_data(context)
+        print(f"⚠️ Error: {e}")
+        status = get_status_message(local_hour, context)
+        return {
+            "status_text": f"{status} · ☁️ API Error · 📅 BS: {context['bs_date']}",
+            "is_fallback": True
+        }
 
 def update_readme(data):
     with open(README_FILE, 'r') as f:
