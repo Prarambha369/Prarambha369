@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · 🌙 Clear Sky · 🌡️ 25.85°C · 📅 BS: 0 Baishakh, 2082
+**Current Status:** Sleep = 0ms 💀 · 🌙 Clear Sky · 🌡️ 25.85°C · 📅 BS: 30 Chaitra, 2082
 
 </div>
 <!-- WEATHER_END -->
