@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · 🌙 Clear Sky · 🌡️ 25.85°C · 📅 BS: 30 Chaitra, 2082
+**Current Status:** Nepali New Year 🎉 · Celebrating! · 🌙 Clear Sky · 🌡️ 25.85°C · 📅 BS: 1 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
