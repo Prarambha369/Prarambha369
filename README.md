@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Nepali New Year 🎉 · Celebrating! · ☀️ Clear Sky · 🌡️ 34.9°C · 📅 BS: 1 Baishakh, 2083
+**Current Status:** Nepali New Year 🎉 · Celebrating! · ☀️ Clear Sky · 🌡️ 35.72°C · 📅 BS: 1 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
