@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · ☁️ Broken Clouds · 🌡️ 25.71°C · 📅 BS: 4 Baishakh, 2083
+**Current Status:** Debugging Life 🆘 · ☁️ Scattered Clouds · 🌡️ 25.08°C · 📅 BS: 4 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
