@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ⛅ Scattered Clouds · 🌡️ 24.23°C · 📅 BS: 4 Baishakh, 2083
+**Current Status:** Cramming Syntax 🧠 · ☀️ Clear Sky · 🌡️ 25.64°C · 📅 BS: 4 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
