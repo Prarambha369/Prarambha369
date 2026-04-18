@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     
-```
+```zsh
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                            │
 │   $ whoami                                                                  │
@@ -37,13 +37,28 @@
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkZD1tZXRhbGF0YXNrcy9JdGVtLmRlc2NyaXB0aW9uPWdpZiZjdD1n/26nbnaxxkRYxaVzEs/giphy.gif" alt="coding terminal" />
+### `curl -I ftp://links` 
+
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/nepal/Prarambha369.svg?style=for-the-badge&height=28)](https://user-badge.committers.top/nepal/Prarambha369) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=28)](https://www.linkedin.com/in/misterbashyal/)
+[![Portfolio](https://img.shields.io/badge/prarambha.xyz-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=black&height=28)](https://prarambha.xyz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=28)](mailto:prarambha@butwalhacks.com)
+[![Butwal Hacks](https://img.shields.io/badge/Butwal_Hacks-ff0000?style=for-the-badge&color=ff0000&height=28)](https://butwalhacks.com)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&height=28)](https://github.com/sponsors/Prarambha369)
+![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&color=F59E0B&style=for-the-badge&label=visitors&labelColor=0a0a0a&height=28)
+
+</div>
+
+---
+
 
 ### `./about_me.sh` 
 
 ```bash
-#!/bin/bash
-
 NAME="Prarambha Bashyal"
 ALIAS=("Pebo CodeZ" "MisterBashyal")
 
@@ -72,7 +87,7 @@ echo "Building things that matter. From Nepal, for the world."
 
 ### `lscpu` 
 
-```
+```js
 Architecture:        Full-Stack Systems Engineer
 Byte Order:          Little Endian (performance-optimized)
 
@@ -132,7 +147,7 @@ Byte Order:          Little Endian (performance-optimized)
 
 ### `ps aux` 
 
-```USER            PID  %CPU  COMMAND                           STATUS
+```py
 PrarambhaBashyal   001  99.9  prarambha.xyz                     [ACTIVE] Personal portfolio 
 ParomBoat          002  85.0  sahuji-cashier                    [DEV] C++ POS system for local businesses
 Wispy_GameZ        003  75.0  bagh-chal                         [OSS] Traditional Nepali board game
@@ -145,7 +160,7 @@ MisterBashyal      006  50.0  gnome-nepal                       [MAINTAINER] Ope
 
 ### `df -h`
 
-```
+```js
 Filesystem           Depth    Proficiency Level
 /dev/systems         ████░    C++ · Memory Management · Performance Optimization
 /dev/web             ████░    Next.js · React · Tailwind · Full-Stack Development
@@ -205,7 +220,7 @@ Filesystem           Depth    Proficiency Level
 
 <div align="center">
     
-```
+```lua
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
 │   $ ssh pebo@butwalhacks.com                                       │
@@ -240,7 +255,7 @@ $ █
 
 ### `man hire` 
 
-```
+```csv
 NAME
        Prarambha Bashyal - Full-Stack Developer & Systems Engineer
 
@@ -291,22 +306,10 @@ COPYRIGHT
 </div>
 
 ---
+
 <div align="center">
 
 **Built with:** `Vim` · `Git` · `Coffee` · `Open Source Spirit` ☕💻
 
-<br/>
-
-<!-- Row 1: Social & Links (Uniform Height & Style) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=28)](https://www.linkedin.com/in/misterbashyal/)
-[![Portfolio](https://img.shields.io/badge/prarambha.xyz-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=black&height=28)](https://prarambha.xyz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=28)](mailto:prarambha@butwalhacks.com)
-[![Butwal Hacks](https://img.shields.io/badge/Butwal_Hacks-ff0000?style=for-the-badge&color=ff0000&height=28)](https://butwalhacks.com)
-
-<br/>
-
-<!-- Row 2: Sponsor & Visitors (Matched Styles) -->
-[![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&height=28)](https://github.com/sponsors/Prarambha369)
-![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&color=F59E0B&style=for-the-badge&label=visitors&labelColor=0a0a0a&height=28)
-
 </div>
+
