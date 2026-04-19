@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☀️ Clear Sky · 🌡️ 37.72°C · 📅 BS: 6 Baishakh, 2083
+**Current Status:** Cramming Syntax 🧠 · ☀️ Clear Sky · 🌡️ 39.2°C · 📅 BS: 6 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
