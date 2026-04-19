@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Broken Clouds · 🌡️ 32.34°C · 📅 BS: 6 Baishakh, 2083
+**Current Status:** Exam Mode: ON 📚 · ☁️ Broken Clouds · 🌡️ 30.55°C · 📅 BS: 6 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
