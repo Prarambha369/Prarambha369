@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · 🌙 Clear Sky · 🌡️ 29.21°C · 📅 BS: 9 Baishakh, 2083
+**Current Status:** Debugging Life 🆘 · 🌙 Clear Sky · 🌡️ 28.52°C · 📅 BS: 9 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
