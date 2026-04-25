@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Few Clouds · 🌡️ 28.15°C · 📅 BS: 13 Baishakh, 2083
+**Current Status:** Sleep = 0ms 💀 · ☁️ Few Clouds · 🌡️ 28.15°C · 📅 BS: 13 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
