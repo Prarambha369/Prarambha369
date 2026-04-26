@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ☁️ Broken Clouds · 🌡️ 26.97°C · 📅 BS: 13 Baishakh, 2083
+**Current Status:** Sleep = 0ms 💀 · ☁️ Broken Clouds · 🌡️ 26.35°C · 📅 BS: 13 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
