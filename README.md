@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · ☁️ Scattered Clouds · 🌡️ 25.54°C · 📅 BS: 13 Baishakh, 2083
+**Current Status:** Exam Mode: ON 📚 · 🌙 Clear Sky · 🌡️ 24.1°C · 📅 BS: 14 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
