@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ☀️ Clear Sky · 🌡️ 40.26°C · 📅 BS: 13 Baishakh, 2083
+**Current Status:** Coffee IV Drip ☕ · ☀️ Clear Sky · 🌡️ 40.97°C · 📅 BS: 13 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
