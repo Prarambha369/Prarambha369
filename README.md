@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · 🌤️ Few Clouds · 🌡️ 31.81°C · 📅 BS: 16 Baishakh, 2083
+**Current Status:** Exam Mode: ON 📚 · 🌤️ Few Clouds · 🌡️ 36.88°C · 📅 BS: 16 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
