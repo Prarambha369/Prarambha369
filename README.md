@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ☁️ Scattered Clouds · 🌡️ 21.8°C · 📅 BS: 17 Baishakh, 2083
+**Current Status:** Buddha Jayanti 🕯️ · Celebrating! · ☁️ Overcast Clouds · 🌡️ 21.68°C · 📅 BS: 18 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
