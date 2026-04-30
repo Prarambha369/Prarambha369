@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Buddha Jayanti 🕯️ · Celebrating! · ☁️ Overcast Clouds · 🌡️ 21.54°C · 📅 BS: 18 Baishakh, 2083
+**Current Status:** Buddha Jayanti 🕯️ · Celebrating! · ☁️ Overcast Clouds · 🌡️ 21.85°C · 📅 BS: 18 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
