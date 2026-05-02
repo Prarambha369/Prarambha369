@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Broken Clouds · 🌡️ 26.16°C · 📅 BS: 19 Baishakh, 2083
+**Current Status:** Compiling Notes 📝 · 🌧️ Light Rain · 🌡️ 25.54°C · 📅 BS: 19 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
