@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · ⛅ Scattered Clouds · 🌡️ 30.27°C · 📅 BS: 20 Baishakh, 2083
+**Current Status:** Exam Mode: ON 📚 · ⛅ Broken Clouds · 🌡️ 28.79°C · 📅 BS: 20 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
