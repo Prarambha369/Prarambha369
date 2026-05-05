@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ☁️ Scattered Clouds · 🌡️ 23.47°C · 📅 BS: 23 Baishakh, 2083
+**Current Status:** Sleep = 0ms 💀 · ☁️ Broken Clouds · 🌡️ 23.79°C · 📅 BS: 23 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
