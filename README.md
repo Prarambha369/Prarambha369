@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · ☁️ Overcast Clouds · 🌡️ 24.65°C · 📅 BS: 22 Baishakh, 2083
+**Current Status:** Sleep = 0ms 💀 · ☁️ Overcast Clouds · 🌡️ 24.93°C · 📅 BS: 22 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
