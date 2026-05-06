@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ⛅ Scattered Clouds · 🌡️ 24.24°C · 📅 BS: 23 Baishakh, 2083
+**Current Status:** Cramming Syntax 🧠 · ☁️ Overcast Clouds · 🌡️ 27.4°C · 📅 BS: 23 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
