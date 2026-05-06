@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ☁️ Overcast Clouds · 🌡️ 27.4°C · 📅 BS: 23 Baishakh, 2083
+**Current Status:** Coffee IV Drip ☕ · ⛅ Broken Clouds · 🌡️ 28.23°C · 📅 BS: 23 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
