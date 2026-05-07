@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · ☁️ Broken Clouds · 🌡️ 21.7°C · 📅 BS: 25 Baishakh, 2083
+**Current Status:** Coffee IV Drip ☕ · ⛅ Broken Clouds · 🌡️ 21.66°C · 📅 BS: 25 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
