@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ☁️ Overcast Clouds · 🌡️ 24.16°C · 📅 BS: 26 Baishakh, 2083
+**Current Status:** Compiling Notes 📝 · ☁️ Overcast Clouds · 🌡️ 32.19°C · 📅 BS: 26 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
