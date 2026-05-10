@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ☁️ Scattered Clouds · 🌡️ 25.68°C · 📅 BS: 28 Baishakh, 2083
+**Current Status:** Debugging Life 🆘 · ☁️ Scattered Clouds · 🌡️ 25.24°C · 📅 BS: 28 Baishakh, 2083
 
 </div>
 <!-- WEATHER_END -->
