@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ☁️ Few Clouds · 🌡️ 26.95°C · 📅 BS: 2 Jestha, 2083
+**Current Status:** Cramming Syntax 🧠 · ☁️ Few Clouds · 🌡️ 26.55°C · 📅 BS: 2 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
