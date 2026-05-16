@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · 🌤️ Scattered Clouds · 🌡️ 39.81°C · 📅 BS: 2 Jestha, 2083
+**Current Status:** Coffee IV Drip ☕ · 🌤️ Scattered Clouds · 🌡️ 38.29°C · 📅 BS: 2 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
