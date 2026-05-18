@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · ☀️ Clear Sky · 🌡️ 38.24°C · 📅 BS: 4 Jestha, 2083
+**Current Status:** Exam Mode: ON 📚 · ☀️ Clear Sky · 🌡️ 39.75°C · 📅 BS: 4 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
