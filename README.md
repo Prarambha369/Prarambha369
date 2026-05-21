@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · 🌙 Clear Sky · 🌡️ 27.8°C · 📅 BS: 7 Jestha, 2083
+**Current Status:** Debugging Life 🆘 · ☀️ Clear Sky · 🌡️ 33.7°C · 📅 BS: 7 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
