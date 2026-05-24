@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ⛅ Scattered Clouds · 🌡️ 40.8°C · 📅 BS: 10 Jestha, 2083
+**Current Status:** Exam Mode: ON 📚 · 🌤️ Scattered Clouds · 🌡️ 40.28°C · 📅 BS: 10 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
