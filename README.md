@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ☁️ Few Clouds · 🌡️ 27.95°C · 📅 BS: 13 Jestha, 2083
+**Current Status:** Exam Mode: ON 📚 · 🌙 Clear Sky · 🌡️ 26.49°C · 📅 BS: 14 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
