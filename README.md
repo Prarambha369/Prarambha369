@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Scattered Clouds · 🌡️ 30.28°C · 📅 BS: 13 Jestha, 2083
+**Current Status:** Debugging Life 🆘 · ☁️ Few Clouds · 🌡️ 27.95°C · 📅 BS: 13 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
