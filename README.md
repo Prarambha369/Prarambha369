@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · 🌙 Clear Sky · 🌡️ 26.51°C · 📅 BS: 15 Jestha, 2083
+**Current Status:** Cramming Syntax 🧠 · 🌙 Clear Sky · 🌡️ 26.01°C · 📅 BS: 16 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
