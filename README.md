@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ⛅ Broken Clouds · 🌡️ 30.21°C · 📅 BS: 16 Jestha, 2083
+**Current Status:** Coffee IV Drip ☕ · ☁️ Scattered Clouds · 🌡️ 27.13°C · 📅 BS: 16 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
