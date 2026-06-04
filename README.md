@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · 🌤️ Few Clouds · 🌡️ 41.19°C · 📅 BS: 21 Jestha, 2083
+**Current Status:** Debugging Life 🆘 · ⛅ Broken Clouds · 🌡️ 33.36°C · 📅 BS: 21 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
