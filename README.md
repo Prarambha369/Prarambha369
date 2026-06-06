@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · 🌤️ Few Clouds · 🌡️ 40.56°C · 📅 BS: 23 Jestha, 2083
+**Current Status:** Compiling Notes 📝 · ☀️ Clear Sky · 🌡️ 40.02°C · 📅 BS: 23 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
