@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Broken Clouds · 🌡️ 31.94°C · 📅 BS: 25 Jestha, 2083
+**Current Status:** Sleep = 0ms 💀 · ☁️ Scattered Clouds · 🌡️ 29.74°C · 📅 BS: 26 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
