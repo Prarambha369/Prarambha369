@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ☁️ Scattered Clouds · 🌡️ 29.74°C · 📅 BS: 26 Jestha, 2083
+**Current Status:** Sleep = 0ms 💀 · ☁️ Few Clouds · 🌡️ 28.73°C · 📅 BS: 26 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
