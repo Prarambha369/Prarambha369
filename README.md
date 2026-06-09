@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · 🌙 Clear Sky · 🌡️ 30.24°C · 📅 BS: 26 Jestha, 2083
+**Current Status:** Exam Mode: ON 📚 · 🌙 Clear Sky · 🌡️ 28.85°C · 📅 BS: 27 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
