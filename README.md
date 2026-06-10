@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · ⛅ Broken Clouds · 🌡️ 40.36°C · 📅 BS: 27 Jestha, 2083
+**Current Status:** Cramming Syntax 🧠 · ☁️ Overcast Clouds · 🌡️ 33.22°C · 📅 BS: 27 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
