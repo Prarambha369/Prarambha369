@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · 🌙 Clear Sky · 🌡️ 28.07°C · 📅 BS: 28 Jestha, 2083
+**Current Status:** Compiling Notes 📝 · ☁️ Few Clouds · 🌡️ 27.39°C · 📅 BS: 28 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
