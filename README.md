@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · ⛅ Broken Clouds · 🌡️ 37.57°C · 📅 BS: 29 Jestha, 2083
+**Current Status:** Cramming Syntax 🧠 · ☁️ Broken Clouds · 🌡️ 31.15°C · 📅 BS: 29 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
