@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ⛅ Scattered Clouds · 🌡️ 38.83°C · 📅 BS: 30 Jestha, 2083
+**Current Status:** Compiling Notes 📝 · 🌤️ Scattered Clouds · 🌡️ 40.42°C · 📅 BS: 30 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
