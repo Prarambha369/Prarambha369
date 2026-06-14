@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · 🌙 Clear Sky · 🌡️ 30.01°C · 📅 BS: 31 Jestha, 2083
+**Current Status:** Exam Mode: ON 📚 · ☁️ Broken Clouds · 🌡️ 30.02°C · 📅 BS: 32 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
