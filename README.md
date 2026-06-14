@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · 🌙 Clear Sky · 🌡️ 27.55°C · 📅 BS: 31 Jestha, 2083
+**Current Status:** Exam Mode: ON 📚 · ☀️ Clear Sky · 🌡️ 27.48°C · 📅 BS: 31 Jestha, 2083
 
 </div>
 <!-- WEATHER_END -->
