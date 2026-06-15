@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Few Clouds · 🌡️ 28.61°C · 📅 BS: 1 Ashadh, 2083
+**Current Status:** Compiling Notes 📝 · ☀️ Clear Sky · 🌡️ 28.36°C · 📅 BS: 1 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
