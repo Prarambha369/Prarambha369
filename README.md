@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · ☀️ Clear Sky · 🌡️ 34.69°C · 📅 BS: 1 Ashadh, 2083
+**Current Status:** Cramming Syntax 🧠 · 🌤️ Few Clouds · 🌡️ 41.02°C · 📅 BS: 1 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
