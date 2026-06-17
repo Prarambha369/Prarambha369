@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ☀️ Clear Sky · 🌡️ 42.13°C · 📅 BS: 2 Ashadh, 2083
+**Current Status:** Coffee IV Drip ☕ · ☁️ Overcast Clouds · 🌡️ 36.28°C · 📅 BS: 2 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
