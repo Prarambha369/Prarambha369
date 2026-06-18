@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ☁️ Overcast Clouds · 🌡️ 35.56°C · 📅 BS: 3 Ashadh, 2083
+**Current Status:** Cramming Syntax 🧠 · ☁️ Few Clouds · 🌡️ 31.96°C · 📅 BS: 3 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
