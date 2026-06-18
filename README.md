@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ☀️ Clear Sky · 🌡️ 34.69°C · 📅 BS: 3 Ashadh, 2083
+**Current Status:** Exam Mode: ON 📚 · ☀️ Clear Sky · 🌡️ 40.9°C · 📅 BS: 3 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
