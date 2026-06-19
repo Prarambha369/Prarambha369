@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ⛅ Broken Clouds · 🌡️ 30.24°C · 📅 BS: 4 Ashadh, 2083
+**Current Status:** Exam Mode: ON 📚 · ☁️ Broken Clouds · 🌡️ 31.49°C · 📅 BS: 4 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
