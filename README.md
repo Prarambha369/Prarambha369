@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · 🌙 Clear Sky · 🌡️ 29.22°C · 📅 BS: 6 Ashadh, 2083
+**Current Status:** Sleep = 0ms 💀 · 🌙 Clear Sky · 🌡️ 28.72°C · 📅 BS: 6 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
