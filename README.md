@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ☁️ Scattered Clouds · 🌡️ 33.03°C · 📅 BS: 5 Ashadh, 2083
+**Current Status:** Cramming Syntax 🧠 · ☁️ Scattered Clouds · 🌡️ 31.78°C · 📅 BS: 5 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
