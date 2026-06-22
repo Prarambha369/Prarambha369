@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Debugging Life 🆘 · ☁️ Overcast Clouds · 🌡️ 31.88°C · 📅 BS: 7 Ashadh, 2083
+**Current Status:** Debugging Life 🆘 · ☁️ Broken Clouds · 🌡️ 29.65°C · 📅 BS: 8 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
