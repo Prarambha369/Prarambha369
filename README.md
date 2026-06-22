@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Broken Clouds · 🌡️ 28.54°C · 📅 BS: 8 Ashadh, 2083
+**Current Status:** Debugging Life 🆘 · ⛅ Scattered Clouds · 🌡️ 28.96°C · 📅 BS: 8 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
