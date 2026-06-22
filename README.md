@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ⛅ Broken Clouds · 🌡️ 37.64°C · 📅 BS: 7 Ashadh, 2083
+**Current Status:** Debugging Life 🆘 · ☁️ Overcast Clouds · 🌡️ 31.88°C · 📅 BS: 7 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
