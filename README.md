@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · 🌤️ Scattered Clouds · 🌡️ 41.99°C · 📅 BS: 10 Ashadh, 2083
+**Current Status:** Compiling Notes 📝 · ☁️ Overcast Clouds · 🌡️ 36.95°C · 📅 BS: 10 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
