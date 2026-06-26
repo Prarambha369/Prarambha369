@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · ⛈️ Light Rain · 🌡️ 31.23°C · 📅 BS: 11 Ashadh, 2083
+**Current Status:** Sleep = 0ms 💀 · 🌤️ Scattered Clouds · 🌡️ 30.63°C · 📅 BS: 11 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
