@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Exam Mode: ON 📚 · ☁️ Broken Clouds · 🌡️ 32.28°C · 📅 BS: 12 Ashadh, 2083
+**Current Status:** Coffee IV Drip ☕ · ☁️ Overcast Clouds · 🌡️ 34.26°C · 📅 BS: 12 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
