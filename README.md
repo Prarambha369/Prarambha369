@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleep = 0ms 💀 · ⛅ Scattered Clouds · 🌡️ 42.9°C · 📅 BS: 11 Ashadh, 2083
+**Current Status:** Debugging Life 🆘 · ⛅ Scattered Clouds · 🌡️ 38.96°C · 📅 BS: 11 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
