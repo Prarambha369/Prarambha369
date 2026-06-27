@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · ☁️ Broken Clouds · 🌡️ 33.77°C · 📅 BS: 12 Ashadh, 2083
+**Current Status:** Coffee IV Drip ☕ · ☁️ Scattered Clouds · 🌡️ 33.1°C · 📅 BS: 13 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
