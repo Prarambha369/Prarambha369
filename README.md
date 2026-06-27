@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Cramming Syntax 🧠 · 🌙 Clear Sky · 🌡️ 28.8°C · 📅 BS: 12 Ashadh, 2083
+**Current Status:** Sleep = 0ms 💀 · ☀️ Clear Sky · 🌡️ 34.55°C · 📅 BS: 12 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
