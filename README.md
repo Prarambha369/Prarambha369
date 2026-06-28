@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · 🌧️ Heavy Intensity Rain · 🌡️ 36.53°C · 📅 BS: 13 Ashadh, 2083
+**Current Status:** Coffee IV Drip ☕ · ☁️ Overcast Clouds · 🌡️ 39.21°C · 📅 BS: 13 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
