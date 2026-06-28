@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee IV Drip ☕ · ⛈️ Heavy Intensity Rain · 🌡️ 29.43°C · 📅 BS: 14 Ashadh, 2083
+**Current Status:** Compiling Notes 📝 · 🌙 Clear Sky · 🌡️ 29.11°C · 📅 BS: 14 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
