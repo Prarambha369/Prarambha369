@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Compiling Notes 📝 · ☁️ Broken Clouds · 🌡️ 28.02°C · 📅 BS: 15 Ashadh, 2083
+**Current Status:** Compiling Notes 📝 · ☁️ Broken Clouds · 🌡️ 28.06°C · 📅 BS: 15 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
