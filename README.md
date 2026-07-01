@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · ☁️ Overcast Clouds · 🌡️ 33.62°C · 📅 BS: 16 Ashadh, 2083
+**Current Status:** Deadline Approaching ⚠️ · ☁️ Overcast Clouds · 🌡️ 30.72°C · 📅 BS: 16 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
