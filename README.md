@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight Deploy 🌑 · ⛈️ Moderate Rain · 🌡️ 27.78°C · 📅 BS: 17 Ashadh, 2083
+**Current Status:** First Lecture Snore 😴 · 🌧️ Light Rain · 🌡️ 27.64°C · 📅 BS: 17 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
