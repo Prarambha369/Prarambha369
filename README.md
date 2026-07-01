@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Bug Hunting 🐛 · ☁️ Overcast Clouds · 🌡️ 29.48°C · 📅 BS: 16 Ashadh, 2083
+**Current Status:** Midnight Deploy 🌑 · 🌙 Clear Sky · 🌡️ 28.34°C · 📅 BS: 17 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
