@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee Loading ☕ · ☁️ Overcast Clouds · 🌡️ 28.45°C · 📅 BS: 16 Ashadh, 2083
+**Current Status:** Lunch Break Buffer 🍱 · ☁️ Overcast Clouds · 🌡️ 33.89°C · 📅 BS: 16 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
