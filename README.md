@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · 🌧️ Light Rain · 🌡️ 27.64°C · 📅 BS: 17 Ashadh, 2083
+**Current Status:** Commute to Class 🚌 · ⛅ Broken Clouds · 🌡️ 32.23°C · 📅 BS: 17 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
