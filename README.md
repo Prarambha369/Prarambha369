@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Overcast Clouds · 🌡️ 28.73°C · 📅 BS: 18 Ashadh, 2083
+**Current Status:** First Lecture Snore 😴 · ☁️ Overcast Clouds · 🌡️ 28.88°C · 📅 BS: 18 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
