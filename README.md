@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Commute to Class 🚌 · ⛅ Broken Clouds · 🌡️ 32.23°C · 📅 BS: 17 Ashadh, 2083
+**Current Status:** Copying Code 🤫 · ☁️ Broken Clouds · 🌡️ 33.8°C · 📅 BS: 17 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
