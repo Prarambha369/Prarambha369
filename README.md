@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · ☁️ Overcast Clouds · 🌡️ 30.73°C · 📅 BS: 19 Ashadh, 2083
+**Current Status:** Refactoring Life 🔄 · ☁️ Overcast Clouds · 🌡️ 30.61°C · 📅 BS: 19 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
