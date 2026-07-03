@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 31.7°C · 📅 BS: 18 Ashadh, 2083
+**Current Status:** Weekend Build 🛠️ · ☁️ Overcast Clouds · 🌡️ 30.73°C · 📅 BS: 19 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
