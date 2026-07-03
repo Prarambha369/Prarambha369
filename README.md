@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · ☁️ Overcast Clouds · 🌡️ 30.44°C · 📅 BS: 19 Ashadh, 2083
+**Current Status:** Gaming Session 🎮 · ☁️ Overcast Clouds · 🌡️ 30.18°C · 📅 BS: 19 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
