@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Hackathon Mode 🌙 · ⛅ Broken Clouds · 🌡️ 34.62°C · 📅 BS: 18 Ashadh, 2083
+**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 32.15°C · 📅 BS: 18 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
