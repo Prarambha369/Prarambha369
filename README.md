@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · ⛅ Broken Clouds · 🌡️ 35.32°C · 📅 BS: 18 Ashadh, 2083
+**Current Status:** Last Lecture Stretch 🏃 · ☁️ Overcast Clouds · 🌡️ 36.46°C · 📅 BS: 18 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
