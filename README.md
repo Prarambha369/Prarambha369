@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · ⛅ Scattered Clouds · 🌡️ 31.41°C · 📅 BS: 19 Ashadh, 2083
+**Current Status:** Gaming Session 🎮 · ☁️ Broken Clouds · 🌡️ 36.19°C · 📅 BS: 19 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
