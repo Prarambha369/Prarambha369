@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Side Project Hustle 🚀 · ☁️ Overcast Clouds · 🌡️ 36.37°C · 📅 BS: 19 Ashadh, 2083
+**Current Status:** Side Project Hustle 🚀 · ☁️ Overcast Clouds · 🌡️ 36.61°C · 📅 BS: 19 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
