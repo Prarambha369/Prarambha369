@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · 🌤️ Scattered Clouds · 🌡️ 34°C · 📅 BS: 19 Ashadh, 2083
+**Current Status:** Git Push Force 💪 · ☁️ Scattered Clouds · 🌡️ 31.94°C · 📅 BS: 19 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
