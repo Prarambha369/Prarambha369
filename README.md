@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Afternoon Slump 📉 · ⛅ Broken Clouds · 🌡️ 39.36°C · 📅 BS: 20 Ashadh, 2083
+**Current Status:** Deadline Approaching ⚠️ · ⛅ Scattered Clouds · 🌡️ 37.59°C · 📅 BS: 20 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
