@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ☁️ Overcast Clouds · 🌡️ 33.05°C · 📅 BS: 20 Ashadh, 2083
+**Current Status:** Bug Hunting 🐛 · ☁️ Overcast Clouds · 🌡️ 30.8°C · 📅 BS: 20 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
