@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Commute to Class 🚌 · 🌤️ Scattered Clouds · 🌡️ 31.32°C · 📅 BS: 21 Ashadh, 2083
+**Current Status:** Lab Session Active 🧪 · ⛅ Broken Clouds · 🌡️ 31.1°C · 📅 BS: 21 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
