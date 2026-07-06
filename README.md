@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ☁️ Overcast Clouds · 🌡️ 32.2°C · 📅 BS: 21 Ashadh, 2083
+**Current Status:** Hackathon Mode 🌙 · ☁️ Overcast Clouds · 🌡️ 29.87°C · 📅 BS: 21 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
