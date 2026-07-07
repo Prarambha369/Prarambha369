@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · ☁️ Broken Clouds · 🌡️ 32.59°C · 📅 BS: 22 Ashadh, 2083
+**Current Status:** Last Lecture Stretch 🏃 · ⛅ Broken Clouds · 🌡️ 35.27°C · 📅 BS: 22 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
