@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ⛅ Scattered Clouds · 🌡️ 29.83°C · 📅 BS: 22 Ashadh, 2083
+**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 28.76°C · 📅 BS: 22 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
