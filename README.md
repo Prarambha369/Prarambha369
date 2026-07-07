@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Last Lecture Stretch 🏃 · ⛅ Broken Clouds · 🌡️ 35.27°C · 📅 BS: 22 Ashadh, 2083
+**Current Status:** Hackathon Mode 🌙 · ⛅ Broken Clouds · 🌡️ 33.12°C · 📅 BS: 22 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
