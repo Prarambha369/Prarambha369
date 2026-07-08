@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Afternoon Slump 📉 · ⛅ Broken Clouds · 🌡️ 33.26°C · 📅 BS: 23 Ashadh, 2083
+**Current Status:** Hackathon Mode 🌙 · ⛅ Broken Clouds · 🌡️ 31.2°C · 📅 BS: 23 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
