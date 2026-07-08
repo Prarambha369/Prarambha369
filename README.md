@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · ⛅ Broken Clouds · 🌡️ 32.66°C · 📅 BS: 23 Ashadh, 2083
+**Current Status:** Copying Code 🤫 · ☁️ Broken Clouds · 🌡️ 33.66°C · 📅 BS: 23 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
