@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight Deploy 🌑 · ☁️ Broken Clouds · 🌡️ 27.45°C · 📅 BS: 24 Ashadh, 2083
+**Current Status:** Midnight Deploy 🌑 · ☁️ Overcast Clouds · 🌡️ 27.23°C · 📅 BS: 24 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
