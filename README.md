@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ☁️ API Error · 📅 BS: 23 Ashadh, 2083
+**Current Status:** StackOverflow Surfer 🏄 · ☁️ Scattered Clouds · 🌡️ 27.69°C · 📅 BS: 23 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
