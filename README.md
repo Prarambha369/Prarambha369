@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lunch Break Buffer 🍱 · ☁️ Overcast Clouds · 🌡️ 32.52°C · 📅 BS: 24 Ashadh, 2083
+**Current Status:** Fighting Sleep 😪 · ☁️ Overcast Clouds · 🌡️ 33.94°C · 📅 BS: 24 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
