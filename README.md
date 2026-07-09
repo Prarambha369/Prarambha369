@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** RAM Clearing 🧹 · ⛈️ Moderate Rain · 🌡️ 26.94°C · 📅 BS: 25 Ashadh, 2083
+**Current Status:** Midnight Deploy 🌑 · ⛈️ Moderate Rain · 🌡️ 26.84°C · 📅 BS: 25 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
