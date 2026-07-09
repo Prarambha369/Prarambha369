@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · 🌧️ Moderate Rain · 🌡️ 27.92°C · 📅 BS: 24 Ashadh, 2083
+**Current Status:** Lunch Break Buffer 🍱 · ☁️ Overcast Clouds · 🌡️ 32.52°C · 📅 BS: 24 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
