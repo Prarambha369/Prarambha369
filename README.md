@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Overcast Clouds · 🌡️ 27.16°C · 📅 BS: 25 Ashadh, 2083
+**Current Status:** RAM Clearing 🧹 · ⛈️ Moderate Rain · 🌡️ 26.94°C · 📅 BS: 25 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
