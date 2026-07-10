@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ☁️ Overcast Clouds · 🌡️ 27.94°C · 📅 BS: 25 Ashadh, 2083
+**Current Status:** Gaming Session 🎮 · ⛈️ Light Rain · 🌡️ 27.53°C · 📅 BS: 26 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
