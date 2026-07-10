@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Git Push Force 💪 · ⛈️ Light Rain · 🌡️ 27.2°C · 📅 BS: 26 Ashadh, 2083
+**Current Status:** Git Push Force 💪 · ☁️ Overcast Clouds · 🌡️ 26.95°C · 📅 BS: 26 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
