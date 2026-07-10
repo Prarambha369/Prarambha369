@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ☁️ Overcast Clouds · 🌡️ 30.11°C · 📅 BS: 25 Ashadh, 2083
+**Current Status:** StackOverflow Surfer 🏄 · ☁️ Overcast Clouds · 🌡️ 29°C · 📅 BS: 25 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
