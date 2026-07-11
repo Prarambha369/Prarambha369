@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gaming Session 🎮 · ☁️ Overcast Clouds · 🌡️ 28.6°C · 📅 BS: 26 Ashadh, 2083
+**Current Status:** Gaming Session 🎮 · ☁️ Broken Clouds · 🌡️ 28.41°C · 📅 BS: 26 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
