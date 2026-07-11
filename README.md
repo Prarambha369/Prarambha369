@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · ☁️ Overcast Clouds · 🌡️ 32.03°C · 📅 BS: 26 Ashadh, 2083
+**Current Status:** Gaming Session 🎮 · ☁️ Overcast Clouds · 🌡️ 31.32°C · 📅 BS: 26 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
