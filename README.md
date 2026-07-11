@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · ☁️ Overcast Clouds · 🌡️ 29.3°C · 📅 BS: 26 Ashadh, 2083
+**Current Status:** Weekend Build 🛠️ · 🌧️ Light Rain · 🌡️ 32.04°C · 📅 BS: 26 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
