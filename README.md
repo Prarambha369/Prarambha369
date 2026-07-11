@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · ☁️ Broken Clouds · 🌡️ 27.63°C · 📅 BS: 26 Ashadh, 2083
+**Current Status:** Midnight Deploy 🌑 · ☁️ Broken Clouds · 🌡️ 27.51°C · 📅 BS: 27 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
