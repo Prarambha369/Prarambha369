@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ⛈️ Heavy Intensity Rain · 🌡️ 27.02°C · 📅 BS: 28 Ashadh, 2083
+**Current Status:** First Lecture Snore 😴 · 🌧️ Moderate Rain · 🌡️ 27.07°C · 📅 BS: 28 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
