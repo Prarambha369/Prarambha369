@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · 🌧️ Heavy Intensity Rain · 🌡️ 30.6°C · 📅 BS: 27 Ashadh, 2083
+**Current Status:** Deadline Approaching ⚠️ · 🌧️ Moderate Rain · 🌡️ 29.41°C · 📅 BS: 27 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
