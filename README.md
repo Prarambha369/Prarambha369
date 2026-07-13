@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · ☁️ Overcast Clouds · 🌡️ 30.67°C · 📅 BS: 28 Ashadh, 2083
+**Current Status:** Fighting Sleep 😪 · ☁️ Overcast Clouds · 🌡️ 29.41°C · 📅 BS: 28 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
