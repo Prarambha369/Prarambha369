@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · ☁️ Overcast Clouds · 🌡️ 27.93°C · 📅 BS: 28 Ashadh, 2083
+**Current Status:** Lab Session Active 🧪 · ☁️ Overcast Clouds · 🌡️ 30.67°C · 📅 BS: 28 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
