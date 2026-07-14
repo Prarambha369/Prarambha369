@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ☁️ Broken Clouds · 🌡️ 27.56°C · 📅 BS: 29 Ashadh, 2083
+**Current Status:** Midnight Deploy 🌑 · ☁️ Overcast Clouds · 🌡️ 27.44°C · 📅 BS: 30 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
