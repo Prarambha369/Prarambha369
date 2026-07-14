@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Commute to Class 🚌 · ☁️ Overcast Clouds · 🌡️ 25.89°C · 📅 BS: 29 Ashadh, 2083
+**Current Status:** Coffee Loading ☕ · ☁️ Overcast Clouds · 🌡️ 27.07°C · 📅 BS: 29 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
