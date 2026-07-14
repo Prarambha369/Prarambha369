@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ☁️ Overcast Clouds · 🌡️ 28.6°C · 📅 BS: 29 Ashadh, 2083
+**Current Status:** Project Grinding 🛠️ · ☁️ Broken Clouds · 🌡️ 27.76°C · 📅 BS: 29 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
