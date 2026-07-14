@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Overcast Clouds · 🌡️ 27.3°C · 📅 BS: 30 Ashadh, 2083
+**Current Status:** Coffee Loading ☕ · ☁️ Overcast Clouds · 🌡️ 27.17°C · 📅 BS: 30 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
