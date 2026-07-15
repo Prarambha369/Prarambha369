@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** StackOverflow Surfer 🏄 · ☁️ Overcast Clouds · 🌡️ 28.84°C · 📅 BS: 30 Ashadh, 2083
+**Current Status:** StackOverflow Surfer 🏄 · ☁️ Overcast Clouds · 🌡️ 28.58°C · 📅 BS: 30 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
