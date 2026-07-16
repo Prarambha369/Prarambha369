@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lunch Break Buffer 🍱 · ⛅ Broken Clouds · 🌡️ 32.78°C · 📅 BS: 31 Ashadh, 2083
+**Current Status:** Copying Code 🤫 · ☁️ Broken Clouds · 🌡️ 32.75°C · 📅 BS: 31 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
