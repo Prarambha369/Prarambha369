@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · ☁️ Broken Clouds · 🌡️ 32.75°C · 📅 BS: 31 Ashadh, 2083
+**Current Status:** Fighting Sleep 😪 · ☁️ Overcast Clouds · 🌡️ 33.34°C · 📅 BS: 31 Ashadh, 2083
 
 </div>
 <!-- WEATHER_END -->
