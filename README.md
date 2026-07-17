@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ☁️ Broken Clouds · 🌡️ 29.16°C · 📅 BS: 1 Shrawan, 2083
+**Current Status:** StackOverflow Surfer 🏄 · ☁️ Overcast Clouds · 🌡️ 28°C · 📅 BS: 1 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
