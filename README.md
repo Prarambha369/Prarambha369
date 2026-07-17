@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Side Project Hustle 🚀 · ☁️ Overcast Clouds · 🌡️ 27.45°C · 📅 BS: 2 Shrawan, 2083
+**Current Status:** Sleeping In 💤 · ☁️ Overcast Clouds · 🌡️ 27.38°C · 📅 BS: 2 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
