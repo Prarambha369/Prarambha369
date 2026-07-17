@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · ☁️ Overcast Clouds · 🌡️ 27.11°C · 📅 BS: 2 Shrawan, 2083
+**Current Status:** Gaming Session 🎮 · ☁️ Overcast Clouds · 🌡️ 27.07°C · 📅 BS: 2 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
