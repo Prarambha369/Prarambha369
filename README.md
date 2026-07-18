@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gaming Session 🎮 · ☁️ Overcast Clouds · 🌡️ 31.41°C · 📅 BS: 2 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · ☁️ Overcast Clouds · 🌡️ 32.01°C · 📅 BS: 2 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
