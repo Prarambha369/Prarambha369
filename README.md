@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · ☁️ Overcast Clouds · 🌡️ 27.55°C · 📅 BS: 2 Shrawan, 2083
+**Current Status:** Weekend Build 🛠️ · ☁️ Overcast Clouds · 🌡️ 30.01°C · 📅 BS: 2 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
