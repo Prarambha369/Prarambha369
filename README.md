@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Bug Hunting 🐛 · ⛈️ Light Rain · 🌡️ 27.35°C · 📅 BS: 3 Shrawan, 2083
+**Current Status:** Bug Hunting 🐛 · ⛈️ Moderate Rain · 🌡️ 27.26°C · 📅 BS: 3 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
