@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ⛅ Broken Clouds · 🌡️ 28.46°C · 📅 BS: 3 Shrawan, 2083
+**Current Status:** Project Grinding 🛠️ · ☁️ Broken Clouds · 🌡️ 27.63°C · 📅 BS: 3 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
