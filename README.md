@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lunch Break Buffer 🍱 · ☁️ Broken Clouds · 🌡️ 32.88°C · 📅 BS: 3 Shrawan, 2083
+**Current Status:** Last Lecture Stretch 🏃 · ☁️ Broken Clouds · 🌡️ 32.89°C · 📅 BS: 3 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
