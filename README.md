@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** RAM Clearing 🧹 · ⛈️ Moderate Rain · 🌡️ 26.6°C · 📅 BS: 4 Shrawan, 2083
+**Current Status:** Sleeping... Zzz 💤 · ⛈️ Light Rain · 🌡️ 26.6°C · 📅 BS: 4 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
