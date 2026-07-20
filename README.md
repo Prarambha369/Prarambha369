@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Last Lecture Stretch 🏃 · ☁️ Overcast Clouds · 🌡️ 31.07°C · 📅 BS: 4 Shrawan, 2083
+**Current Status:** Hackathon Mode 🌙 · ☁️ Overcast Clouds · 🌡️ 29.52°C · 📅 BS: 4 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
