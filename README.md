@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Hackathon Mode 🌙 · ⛅ Broken Clouds · 🌡️ 27.42°C · 📅 BS: 4 Shrawan, 2083
+**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 27°C · 📅 BS: 4 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
