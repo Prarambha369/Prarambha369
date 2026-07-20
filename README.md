@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight Deploy 🌑 · ☁️ Overcast Clouds · 🌡️ 26.53°C · 📅 BS: 5 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ☁️ Overcast Clouds · 🌡️ 25.94°C · 📅 BS: 5 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
