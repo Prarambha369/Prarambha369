@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Bug Hunting 🐛 · ☁️ Overcast Clouds · 🌡️ 27.04°C · 📅 BS: 5 Shrawan, 2083
+**Current Status:** Night Owl Coding 🦉 · ☁️ Overcast Clouds · 🌡️ 26.29°C · 📅 BS: 5 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
