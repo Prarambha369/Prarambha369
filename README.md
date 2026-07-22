@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Last Lecture Stretch 🏃 · ☁️ Overcast Clouds · 🌡️ 31.1°C · 📅 BS: 6 Shrawan, 2083
+**Current Status:** Project Grinding 🛠️ · ☁️ Overcast Clouds · 🌡️ 30.61°C · 📅 BS: 6 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
