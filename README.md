@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · 🌧️ Light Rain · 🌡️ 31.9°C · 📅 BS: 7 Shrawan, 2083
+**Current Status:** Hackathon Mode 🌙 · 🌧️ Light Rain · 🌡️ 29.23°C · 📅 BS: 7 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
