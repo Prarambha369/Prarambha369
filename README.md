@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** StackOverflow Surfer 🏄 · ⛈️ Light Rain · 🌡️ 26.43°C · 📅 BS: 7 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ☁️ Broken Clouds · 🌡️ 26.15°C · 📅 BS: 8 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
