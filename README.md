@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ☁️ Scattered Clouds · 🌡️ 26.98°C · 📅 BS: 7 Shrawan, 2083
+**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 26.8°C · 📅 BS: 7 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
