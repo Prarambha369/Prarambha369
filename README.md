@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Commute to Class 🚌 · ☁️ Overcast Clouds · 🌡️ 26.81°C · 📅 BS: 7 Shrawan, 2083
+**Current Status:** Lab Session Active 🧪 · ☁️ Overcast Clouds · 🌡️ 30.37°C · 📅 BS: 7 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
