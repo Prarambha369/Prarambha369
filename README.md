@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ☁️ Overcast Clouds · 🌡️ 27.97°C · 📅 BS: 8 Shrawan, 2083
+**Current Status:** Night Owl Coding 🦉 · ☁️ Overcast Clouds · 🌡️ 26.69°C · 📅 BS: 8 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
