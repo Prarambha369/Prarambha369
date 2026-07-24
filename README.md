@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · 🌧️ Light Rain · 🌡️ 32.14°C · 📅 BS: 8 Shrawan, 2083
+**Current Status:** Deadline Approaching ⚠️ · 🌧️ Light Rain · 🌡️ 30.61°C · 📅 BS: 8 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
