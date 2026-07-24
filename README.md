@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ☁️ Overcast Clouds · 🌡️ 26.69°C · 📅 BS: 8 Shrawan, 2083
+**Current Status:** Git Push Force 💪 · ⛈️ Light Rain · 🌡️ 26.6°C · 📅 BS: 9 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
