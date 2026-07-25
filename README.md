@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · ☁️ Overcast Clouds · 🌡️ 32.84°C · 📅 BS: 9 Shrawan, 2083
+**Current Status:** Sleeping In 💤 · ☁️ Overcast Clouds · 🌡️ 32.87°C · 📅 BS: 9 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
