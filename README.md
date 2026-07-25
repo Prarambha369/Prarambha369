@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gaming Session 🎮 · ⛈️ Light Rain · 🌡️ 28.42°C · 📅 BS: 9 Shrawan, 2083
+**Current Status:** Midnight Deploy 🌑 · ☁️ Overcast Clouds · 🌡️ 28.24°C · 📅 BS: 10 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
