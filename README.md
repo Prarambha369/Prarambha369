@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · ⛅ Broken Clouds · 🌡️ 30.27°C · 📅 BS: 9 Shrawan, 2083
+**Current Status:** Gaming Session 🎮 · ⛈️ Light Rain · 🌡️ 28.93°C · 📅 BS: 9 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
