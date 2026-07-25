@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Git Push Force 💪 · ☁️ Overcast Clouds · 🌡️ 32.54°C · 📅 BS: 9 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · ☁️ Overcast Clouds · 🌡️ 31.41°C · 📅 BS: 9 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
