@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Side Project Hustle 🚀 · ☁️ Broken Clouds · 🌡️ 32.65°C · 📅 BS: 9 Shrawan, 2083
+**Current Status:** Refactoring Life 🔄 · ☁️ Overcast Clouds · 🌡️ 32.84°C · 📅 BS: 9 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
