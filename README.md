@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · ☁️ Overcast Clouds · 🌡️ 32.87°C · 📅 BS: 9 Shrawan, 2083
+**Current Status:** Git Push Force 💪 · ☁️ Overcast Clouds · 🌡️ 32.54°C · 📅 BS: 9 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
