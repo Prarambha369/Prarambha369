@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Overcast Clouds · 🌡️ 27.8°C · 📅 BS: 11 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ⛈️ Heavy Intensity Rain · 🌡️ 27.57°C · 📅 BS: 11 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
