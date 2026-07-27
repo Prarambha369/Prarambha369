@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · 🌧️ Light Rain · 🌡️ 34.63°C · 📅 BS: 11 Shrawan, 2083
+**Current Status:** Last Lecture Stretch 🏃 · ☁️ Overcast Clouds · 🌡️ 35.18°C · 📅 BS: 11 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
