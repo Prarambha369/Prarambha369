@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ☁️ Overcast Clouds · 🌡️ 28.18°C · 📅 BS: 11 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ☁️ Overcast Clouds · 🌡️ 27.19°C · 📅 BS: 12 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
