@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ☁️ Broken Clouds · 🌡️ 29.07°C · 📅 BS: 12 Shrawan, 2083
+**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 28.73°C · 📅 BS: 12 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
