@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Bug Hunting 🐛 · ☁️ Broken Clouds · 🌡️ 28.73°C · 📅 BS: 12 Shrawan, 2083
+**Current Status:** Midnight Deploy 🌑 · ☁️ Overcast Clouds · 🌡️ 27.57°C · 📅 BS: 13 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
