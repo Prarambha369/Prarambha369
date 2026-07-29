@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Overcast Clouds · 🌡️ 27.06°C · 📅 BS: 14 Shrawan, 2083
+**Current Status:** Sleeping... Zzz 💤 · ⛈️ Light Rain · 🌡️ 26.94°C · 📅 BS: 14 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
