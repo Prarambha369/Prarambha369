@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · 🌧️ Light Rain · 🌡️ 29.01°C · 📅 BS: 14 Shrawan, 2083
+**Current Status:** Fighting Sleep 😪 · 🌧️ Light Rain · 🌡️ 29.79°C · 📅 BS: 14 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
