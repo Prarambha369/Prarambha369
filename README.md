@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · ⛈️ Moderate Rain · 🌡️ 25.71°C · 📅 BS: 16 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · ⛈️ Light Rain · 🌡️ 25.84°C · 📅 BS: 16 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
