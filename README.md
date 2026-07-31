@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ⛈️ Light Rain · 🌡️ 26.35°C · 📅 BS: 15 Shrawan, 2083
+**Current Status:** Gaming Session 🎮 · ⛈️ Light Rain · 🌡️ 25.86°C · 📅 BS: 16 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
