@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Afternoon Slump 📉 · 🌧️ Light Rain · 🌡️ 32.1°C · 📅 BS: 15 Shrawan, 2083
+**Current Status:** Fighting Sleep 😪 · 🌧️ Light Rain · 🌡️ 30.58°C · 📅 BS: 15 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
