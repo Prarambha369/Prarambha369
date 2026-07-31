@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · 🌧️ Light Rain · 🌡️ 28.48°C · 📅 BS: 15 Shrawan, 2083
+**Current Status:** Bug Hunting 🐛 · ⛈️ Light Rain · 🌡️ 26.95°C · 📅 BS: 15 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
