@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · ⛈️ Moderate Rain · 🌡️ 26.66°C · 📅 BS: 16 Shrawan, 2083
+**Current Status:** Refactoring Life 🔄 · ⛈️ Moderate Rain · 🌡️ 26.73°C · 📅 BS: 16 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
