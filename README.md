@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · 🌧️ Light Rain · 🌡️ 28.42°C · 📅 BS: 16 Shrawan, 2083
+**Current Status:** Sleeping In 💤 · ⛈️ Light Rain · 🌡️ 27.87°C · 📅 BS: 16 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
