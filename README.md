@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · ⛈️ Moderate Rain · 🌡️ 26.73°C · 📅 BS: 16 Shrawan, 2083
+**Current Status:** Sleeping... Zzz 💤 · ⛈️ Moderate Rain · 🌡️ 26.57°C · 📅 BS: 17 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
