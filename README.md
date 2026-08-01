@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ⛈️ Light Rain · 🌡️ 26.45°C · 📅 BS: 17 Shrawan, 2083
+**Current Status:** First Lecture Snore 😴 · 🌧️ Light Rain · 🌡️ 26.22°C · 📅 BS: 17 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
