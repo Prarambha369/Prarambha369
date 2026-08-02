@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight Deploy 🌑 · ⛈️ Light Rain · 🌡️ 26.65°C · 📅 BS: 18 Shrawan, 2083
+**Current Status:** Midnight Deploy 🌑 · ⛈️ Light Rain · 🌡️ 26.4°C · 📅 BS: 18 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
