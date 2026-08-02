@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lunch Break Buffer 🍱 · 🌧️ Light Rain · 🌡️ 29.78°C · 📅 BS: 17 Shrawan, 2083
+**Current Status:** Last Lecture Stretch 🏃 · 🌧️ Light Rain · 🌡️ 29.44°C · 📅 BS: 17 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
