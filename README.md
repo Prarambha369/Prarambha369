@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Last Lecture Stretch 🏃 · 🌧️ Light Rain · 🌡️ 29.79°C · 📅 BS: 17 Shrawan, 2083
+**Current Status:** Project Grinding 🛠️ · 🌧️ Light Rain · 🌡️ 28.15°C · 📅 BS: 17 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
