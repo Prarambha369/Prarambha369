@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Bug Hunting 🐛 · ☁️ Overcast Clouds · 🌡️ 27.41°C · 📅 BS: 17 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ⛈️ Light Rain · 🌡️ 27.37°C · 📅 BS: 18 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
