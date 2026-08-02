@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · 🌧️ Light Rain · 🌡️ 26.22°C · 📅 BS: 17 Shrawan, 2083
+**Current Status:** Coffee Loading ☕ · 🌧️ Moderate Rain · 🌡️ 26.72°C · 📅 BS: 17 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
