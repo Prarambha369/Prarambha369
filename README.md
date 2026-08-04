@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ⛈️ Light Rain · 🌡️ 26.51°C · 📅 BS: 19 Shrawan, 2083
+**Current Status:** Midnight Deploy 🌑 · ⛈️ Moderate Rain · 🌡️ 26.72°C · 📅 BS: 20 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
