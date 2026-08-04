@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight Deploy 🌑 · ☁️ Overcast Clouds · 🌡️ 26.11°C · 📅 BS: 20 Shrawan, 2083
+**Current Status:** Commute to Class 🚌 · 🌧️ Light Rain · 🌡️ 25.6°C · 📅 BS: 20 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
