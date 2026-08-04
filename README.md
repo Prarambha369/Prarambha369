@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee Loading ☕ · 🌧️ Light Rain · 🌡️ 25.96°C · 📅 BS: 19 Shrawan, 2083
+**Current Status:** Lab Session Active 🧪 · 🌧️ Light Rain · 🌡️ 27.8°C · 📅 BS: 19 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
