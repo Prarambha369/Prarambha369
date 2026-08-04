@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · ☁️ Overcast Clouds · 🌡️ 26.82°C · 📅 BS: 19 Shrawan, 2083
+**Current Status:** Night Owl Coding 🦉 · ⛈️ Light Rain · 🌡️ 26.51°C · 📅 BS: 19 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
