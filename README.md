@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Afternoon Slump 📉 · 🌧️ Light Rain · 🌡️ 28.53°C · 📅 BS: 19 Shrawan, 2083
+**Current Status:** Project Grinding 🛠️ · 🌧️ Light Rain · 🌡️ 27.73°C · 📅 BS: 19 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
