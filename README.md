@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · 🌧️ Moderate Rain · 🌡️ 29.62°C · 📅 BS: 20 Shrawan, 2083
+**Current Status:** Lunch Break Buffer 🍱 · 🌧️ Moderate Rain · 🌡️ 29.99°C · 📅 BS: 20 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
