@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Hackathon Mode 🌙 · ⛈️ Light Rain · 🌡️ 26.56°C · 📅 BS: 20 Shrawan, 2083
+**Current Status:** StackOverflow Surfer 🏄 · ⛈️ Moderate Rain · 🌡️ 26.24°C · 📅 BS: 20 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
