@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** StackOverflow Surfer 🏄 · ⛈️ Moderate Rain · 🌡️ 26.24°C · 📅 BS: 20 Shrawan, 2083
+**Current Status:** Sleeping... Zzz 💤 · ⛈️ Moderate Rain · 🌡️ 25.75°C · 📅 BS: 21 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
