@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · 🌤️ Scattered Clouds · 🌡️ 28.11°C · 📅 BS: 21 Shrawan, 2083
+**Current Status:** Hackathon Mode 🌙 · ☁️ Scattered Clouds · 🌡️ 27.08°C · 📅 BS: 21 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
