@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · 🌧️ Moderate Rain · 🌡️ 25.42°C · 📅 BS: 21 Shrawan, 2083
+**Current Status:** Commute to Class 🚌 · ☁️ Overcast Clouds · 🌡️ 25.49°C · 📅 BS: 21 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
