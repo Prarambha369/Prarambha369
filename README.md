@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · 🌧️ Light Rain · 🌡️ 29.57°C · 📅 BS: 22 Shrawan, 2083
+**Current Status:** Lab Session Active 🧪 · 🌧️ Light Rain · 🌡️ 31.36°C · 📅 BS: 22 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
