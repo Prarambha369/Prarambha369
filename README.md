@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night Owl Coding 🦉 · ⛈️ Light Rain · 🌡️ 26.73°C · 📅 BS: 22 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · ⛈️ Light Rain · 🌡️ 26.22°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
