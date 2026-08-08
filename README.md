@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · 🌧️ Light Rain · 🌡️ 29.45°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** Gaming Session 🎮 · 🌧️ Moderate Rain · 🌡️ 29.96°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
