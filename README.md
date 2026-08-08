@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gaming Session 🎮 · 🌧️ Moderate Rain · 🌡️ 29.96°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** Sleeping In 💤 · 🌧️ Light Rain · 🌡️ 30.3°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
