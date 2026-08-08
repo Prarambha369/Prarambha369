@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · ☁️ Broken Clouds · 🌡️ 27.81°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ☁️ Broken Clouds · 🌡️ 27.8°C · 📅 BS: 24 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
