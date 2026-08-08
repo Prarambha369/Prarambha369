@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · ☁️ Overcast Clouds · 🌡️ 32.01°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** Git Push Force 💪 · 🌧️ Light Rain · 🌡️ 31.22°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
