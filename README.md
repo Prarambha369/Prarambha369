@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend Build 🛠️ · ⛅ Broken Clouds · 🌡️ 28.08°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** Gaming Session 🎮 · ☁️ Broken Clouds · 🌡️ 28.13°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
