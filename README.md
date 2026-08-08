@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Side Project Hustle 🚀 · 🌧️ Light Rain · 🌡️ 30.6°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · ☁️ Overcast Clouds · 🌡️ 32.02°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
