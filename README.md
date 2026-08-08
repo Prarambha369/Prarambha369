@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gaming Session 🎮 · ☁️ Broken Clouds · 🌡️ 28.13°C · 📅 BS: 23 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · ☁️ Broken Clouds · 🌡️ 27.96°C · 📅 BS: 23 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
