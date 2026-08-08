@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** RAM Clearing 🧹 · ☁️ Broken Clouds · 🌡️ 27.8°C · 📅 BS: 24 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ⛈️ Light Rain · 🌡️ 27.25°C · 📅 BS: 24 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
