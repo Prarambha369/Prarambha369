@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Overcast Clouds · 🌡️ 26.38°C · 📅 BS: 24 Shrawan, 2083
+**Current Status:** Midnight Deploy 🌑 · ⛈️ Light Rain · 🌡️ 26.24°C · 📅 BS: 24 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
