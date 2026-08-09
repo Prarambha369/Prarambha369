@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ⛈️ Light Rain · 🌡️ 27.25°C · 📅 BS: 25 Shrawan, 2083
+**Current Status:** Commute to Class 🚌 · ☁️ Overcast Clouds · 🌡️ 27.11°C · 📅 BS: 25 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
