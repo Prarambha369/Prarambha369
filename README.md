@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ☁️ Overcast Clouds · 🌡️ 27.57°C · 📅 BS: 24 Shrawan, 2083
+**Current Status:** StackOverflow Surfer 🏄 · ☁️ Broken Clouds · 🌡️ 27.31°C · 📅 BS: 24 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
