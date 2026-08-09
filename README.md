@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Last Lecture Stretch 🏃 · 🌧️ Light Rain · 🌡️ 30.41°C · 📅 BS: 24 Shrawan, 2083
+**Current Status:** Last Lecture Stretch 🏃 · 🌧️ Light Rain · 🌡️ 30.56°C · 📅 BS: 24 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
