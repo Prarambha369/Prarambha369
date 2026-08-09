@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Project Grinding 🛠️ · 🌧️ Light Rain · 🌡️ 30.89°C · 📅 BS: 24 Shrawan, 2083
+**Current Status:** Hackathon Mode 🌙 · 🌧️ Light Rain · 🌡️ 29.79°C · 📅 BS: 24 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
