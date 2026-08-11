@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Commute to Class 🚌 · ☁️ Broken Clouds · 🌡️ 24.99°C · 📅 BS: 26 Shrawan, 2083
+**Current Status:** Coffee Loading ☕ · 🌤️ Few Clouds · 🌡️ 26.18°C · 📅 BS: 26 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
