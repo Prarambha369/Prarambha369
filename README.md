@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping... Zzz 💤 · ☁️ Scattered Clouds · 🌡️ 27.36°C · 📅 BS: 27 Shrawan, 2083
+**Current Status:** First Lecture Snore 😴 · 🌤️ Few Clouds · 🌡️ 27.21°C · 📅 BS: 27 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
