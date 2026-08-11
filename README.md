@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · ☀️ Clear Sky · 🌡️ 34.05°C · 📅 BS: 26 Shrawan, 2083
+**Current Status:** Afternoon Slump 📉 · ☀️ Clear Sky · 🌡️ 33.38°C · 📅 BS: 26 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
