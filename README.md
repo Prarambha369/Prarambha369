@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · ☀️ Clear Sky · 🌡️ 33.57°C · 📅 BS: 26 Shrawan, 2083
+**Current Status:** Copying Code 🤫 · ☀️ Clear Sky · 🌡️ 34.09°C · 📅 BS: 26 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
