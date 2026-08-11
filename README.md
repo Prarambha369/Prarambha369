@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Hackathon Mode 🌙 · ☀️ Clear Sky · 🌡️ 32.46°C · 📅 BS: 26 Shrawan, 2083
+**Current Status:** Deadline Approaching ⚠️ · ☀️ Clear Sky · 🌡️ 29.91°C · 📅 BS: 26 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
