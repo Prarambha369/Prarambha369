@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** StackOverflow Surfer 🏄 · 🌙 Clear Sky · 🌡️ 29.08°C · 📅 BS: 26 Shrawan, 2083
+**Current Status:** Bug Hunting 🐛 · 🌙 Clear Sky · 🌡️ 28.85°C · 📅 BS: 26 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
