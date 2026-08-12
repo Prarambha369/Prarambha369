@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · ☀️ Clear Sky · 🌡️ 32.34°C · 📅 BS: 27 Shrawan, 2083
+**Current Status:** Lunch Break Buffer 🍱 · ☀️ Clear Sky · 🌡️ 34.12°C · 📅 BS: 27 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
