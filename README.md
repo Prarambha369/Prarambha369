@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight Deploy 🌑 · ☁️ Broken Clouds · 🌡️ 28.58°C · 📅 BS: 28 Shrawan, 2083
+**Current Status:** RAM Clearing 🧹 · ☁️ Broken Clouds · 🌡️ 28.47°C · 📅 BS: 28 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
