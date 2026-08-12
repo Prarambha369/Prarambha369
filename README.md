@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · ☀️ Clear Sky · 🌡️ 35.17°C · 📅 BS: 27 Shrawan, 2083
+**Current Status:** Last Lecture Stretch 🏃 · ☀️ Clear Sky · 🌡️ 35.37°C · 📅 BS: 27 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
