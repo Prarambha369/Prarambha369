@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · 🌧️ Moderate Rain · 🌡️ 32.54°C · 📅 BS: 28 Shrawan, 2083
+**Current Status:** Last Lecture Stretch 🏃 · 🌧️ Moderate Rain · 🌡️ 31.94°C · 📅 BS: 28 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
