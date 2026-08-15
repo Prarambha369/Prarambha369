@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Git Push Force 💪 · 🌧️ Light Rain · 🌡️ 30.55°C · 📅 BS: 30 Shrawan, 2083
+**Current Status:** Gaming Session 🎮 · 🌧️ Light Rain · 🌡️ 30.95°C · 📅 BS: 30 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
