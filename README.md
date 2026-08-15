@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sleeping In 💤 · ⛈️ Light Rain · 🌡️ 27.69°C · 📅 BS: 30 Shrawan, 2083
+**Current Status:** Sleeping In 💤 · ⛈️ Light Rain · 🌡️ 26.99°C · 📅 BS: 30 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
