@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Refactoring Life 🔄 · 🌧️ Light Rain · 🌡️ 29.92°C · 📅 BS: 30 Shrawan, 2083
+**Current Status:** Side Project Hustle 🚀 · 🌧️ Light Rain · 🌡️ 28.96°C · 📅 BS: 30 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
