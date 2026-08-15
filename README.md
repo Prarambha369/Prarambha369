@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Git Push Force 💪 · ☁️ Overcast Clouds · 🌡️ 28.42°C · 📅 BS: 30 Shrawan, 2083
+**Current Status:** Refactoring Life 🔄 · 🌧️ Light Rain · 🌡️ 28.49°C · 📅 BS: 30 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
