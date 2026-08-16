@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Commute to Class 🚌 · 🌧️ Moderate Rain · 🌡️ 30.46°C · 📅 BS: 31 Shrawan, 2083
+**Current Status:** Lunch Break Buffer 🍱 · 🌧️ Moderate Rain · 🌡️ 30.57°C · 📅 BS: 31 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
