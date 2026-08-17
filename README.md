@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** RAM Clearing 🧹 · ⛈️ Light Rain · 🌡️ 25.71°C · 📅 BS: 1 Bhadra, 2083
+**Current Status:** Midnight Deploy 🌑 · ⛈️ Moderate Rain · 🌡️ 25.38°C · 📅 BS: 1 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
