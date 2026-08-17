@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Afternoon Slump 📉 · 🌧️ Light Rain · 🌡️ 26.6°C · 📅 BS: 32 Shrawan, 2083
+**Current Status:** Afternoon Slump 📉 · ☁️ Overcast Clouds · 🌡️ 26.28°C · 📅 BS: 32 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
