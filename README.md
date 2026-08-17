@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · ☁️ Overcast Clouds · 🌡️ 27.89°C · 📅 BS: 32 Shrawan, 2083
+**Current Status:** Lunch Break Buffer 🍱 · 🌧️ Light Rain · 🌡️ 28.13°C · 📅 BS: 32 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
