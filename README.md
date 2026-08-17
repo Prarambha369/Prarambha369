@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lab Session Active 🧪 · ☁️ Overcast Clouds · 🌡️ 27.29°C · 📅 BS: 32 Shrawan, 2083
+**Current Status:** Copying Code 🤫 · ☁️ Overcast Clouds · 🌡️ 27.89°C · 📅 BS: 32 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
