@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** RAM Clearing 🧹 · ⛈️ Light Rain · 🌡️ 25.03°C · 📅 BS: 32 Shrawan, 2083
+**Current Status:** First Lecture Snore 😴 · ☁️ Overcast Clouds · 🌡️ 25.54°C · 📅 BS: 32 Shrawan, 2083
 
 </div>
 <!-- WEATHER_END -->
