@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ⛈️ Light Rain · 🌡️ 27.6°C · 📅 BS: 1 Bhadra, 2083
+**Current Status:** Bug Hunting 🐛 · ⛈️ Light Rain · 🌡️ 27.23°C · 📅 BS: 1 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
