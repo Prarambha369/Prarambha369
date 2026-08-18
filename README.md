@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · ☁️ Overcast Clouds · 🌡️ 29.4°C · 📅 BS: 1 Bhadra, 2083
+**Current Status:** Project Grinding 🛠️ · 🌧️ Light Rain · 🌡️ 27.64°C · 📅 BS: 1 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
