@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lunch Break Buffer 🍱 · 🌧️ Light Rain · 🌡️ 30.51°C · 📅 BS: 1 Bhadra, 2083
+**Current Status:** Copying Code 🤫 · 🌧️ Light Rain · 🌡️ 30.48°C · 📅 BS: 1 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
