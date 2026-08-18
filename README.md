@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Fighting Sleep 😪 · 🌧️ Light Rain · 🌡️ 31.1°C · 📅 BS: 1 Bhadra, 2083
+**Current Status:** Last Lecture Stretch 🏃 · ☁️ Overcast Clouds · 🌡️ 32.04°C · 📅 BS: 1 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
