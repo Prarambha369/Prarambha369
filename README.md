@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** RAM Clearing 🧹 · ⛈️ Light Rain · 🌡️ 25.57°C · 📅 BS: 1 Bhadra, 2083
+**Current Status:** Commute to Class 🚌 · ☁️ Overcast Clouds · 🌡️ 25.7°C · 📅 BS: 1 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
