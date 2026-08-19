@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Coffee Loading ☕ · ☁️ Overcast Clouds · 🌡️ 27.52°C · 📅 BS: 2 Bhadra, 2083
+**Current Status:** Lunch Break Buffer 🍱 · ☁️ Overcast Clouds · 🌡️ 27.67°C · 📅 BS: 2 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
