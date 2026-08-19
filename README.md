@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** StackOverflow Surfer 🏄 · ☁️ Overcast Clouds · 🌡️ 27.55°C · 📅 BS: 2 Bhadra, 2083
+**Current Status:** Birthday Mode: ON 🎈 Cake > Coffee · ⛈️ Light Rain · 🌡️ 26.23°C · 📅 BS: 3 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
