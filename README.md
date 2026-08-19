@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Copying Code 🤫 · 🌧️ Light Rain · 🌡️ 32°C · 📅 BS: 2 Bhadra, 2083
+**Current Status:** Lab Session Active 🧪 · 🌧️ Light Rain · 🌡️ 31.68°C · 📅 BS: 2 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
