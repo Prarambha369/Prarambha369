@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First Lecture Snore 😴 · ☁️ Overcast Clouds · 🌡️ 26.4°C · 📅 BS: 2 Bhadra, 2083
+**Current Status:** Coffee Loading ☕ · 🌧️ Light Rain · 🌡️ 26.65°C · 📅 BS: 2 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
