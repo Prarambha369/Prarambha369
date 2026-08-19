@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Deadline Approaching ⚠️ · 🌧️ Light Rain · 🌡️ 28.5°C · 📅 BS: 2 Bhadra, 2083
+**Current Status:** Deadline Approaching ⚠️ · ⛈️ Light Rain · 🌡️ 28.74°C · 📅 BS: 2 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
