@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Birthday Mode: ON 🎈 Cake > Coffee · ⛈️ Light Rain · 🌡️ 26.23°C · 📅 BS: 3 Bhadra, 2083
+**Current Status:** Another year, another blessing 🙏 · ⛈️ Light Rain · 🌡️ 26.63°C · 📅 BS: 3 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
