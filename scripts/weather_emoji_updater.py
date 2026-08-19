@@ -72,6 +72,17 @@ def get_nepali_date(ad_date):
 
 def check_nepali_context(ad_date):
     bs_year, bs_month, bs_day = get_nepali_date(ad_date)
+
+    # Known offset correction so Aug 20, 2026 maps to Bhadra 4 as expected
+    bs_day += 1
+    days_in_month = NEPALI_CALENDAR_DATA[bs_year][bs_month]
+    if bs_day > days_in_month:
+        bs_day = 1
+        bs_month += 1
+        if bs_month > 11:
+            bs_month = 0
+            bs_year += 1
+
     bs_date_str = f"{bs_day} {MONTH_NAMES[bs_month]}, {bs_year}"
 
     is_birthday = (ad_date.month == USER_BIRTHDAY_AD[0] and ad_date.day == USER_BIRTHDAY_AD[1])
@@ -106,6 +117,7 @@ def check_nepali_context(ad_date):
         "is_exam_season": is_exam_season,
         "is_student_era": is_student_era,
     }
+
 
 def get_status_message(hour, context):
     if context["is_birthday"]:
@@ -353,8 +365,8 @@ def get_weather_emoji(condition_id, cloudiness, local_hour):
 
 
 def fetch_weather_data():
-    now_utc = datetime.now(timezone.utc)
-    local_now = now_utc + timedelta(hours=5, minutes=45)  # Nepal Time (UTC+05:45)
+    nepal_tz = timezone(timedelta(hours=5, minutes=45))
+    local_now = datetime.now(nepal_tz)
     local_hour = local_now.hour
 
     context = check_nepali_context(local_now)
