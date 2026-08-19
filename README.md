@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Last Lecture Stretch 🏃 · ⛅ Broken Clouds · 🌡️ 33.22°C · 📅 BS: 2 Bhadra, 2083
+**Current Status:** Last Lecture Stretch 🏃 · 🌧️ Light Rain · 🌡️ 32.54°C · 📅 BS: 2 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
