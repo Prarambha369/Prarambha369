@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A peaceful birthday and warm wishes 🎉 · ⛅ Broken Clouds · 🌡️ 31.42°C · 📅 BS: 4 Bhadra, 2083
+**Current Status:** Celebrating life with a thankful heart 🌿 · ⛅ Broken Clouds · 🌡️ 31.59°C · 📅 BS: 4 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
