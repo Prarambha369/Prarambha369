@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A gentle birthday, full of appreciation ✨ · ☁️ Overcast Clouds · 🌡️ 26.56°C · 📅 BS: 4 Bhadra, 2083
+**Current Status:** A gentle birthday, full of appreciation ✨ · ☁️ Overcast Clouds · 🌡️ 29.27°C · 📅 BS: 4 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
