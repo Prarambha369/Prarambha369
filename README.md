@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Taking a moment to honor this special day 🌸 · 🌧️ Light Rain · 🌡️ 31.7°C · 📅 BS: 4 Bhadra, 2083
+**Current Status:** Marking the day with gratitude 🌼 · 🌧️ Light Rain · 🌡️ 32.01°C · 📅 BS: 4 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
