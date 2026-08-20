@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A peaceful birthday and warm wishes 🎉 · ☁️ Overcast Clouds · 🌡️ 28.19°C · 📅 BS: 4 Bhadra, 2083
+**Current Status:** Another year, another blessing 🙏 · ⛈️ Light Rain · 🌡️ 27.94°C · 📅 BS: 4 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
