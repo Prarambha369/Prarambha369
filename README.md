@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Birthday reflections and quiet joy 🎈 · 🌧️ Light Rain · 🌡️ 31.47°C · 📅 BS: 4 Bhadra, 2083
+**Current Status:** Taking a moment to honor this special day 🌸 · 🌧️ Light Rain · 🌡️ 31.7°C · 📅 BS: 4 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
