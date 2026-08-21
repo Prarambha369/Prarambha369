@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First session: focus and consistency 📘 · ☁️ Overcast Clouds · 🌡️ 29.3°C · 📅 BS: 5 Bhadra, 2083
+**Current Status:** Morning routine and fresh focus 🌼 · ☁️ Overcast Clouds · 🌡️ 32.05°C · 📅 BS: 5 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
