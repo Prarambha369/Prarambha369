@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Composed effort through the day’s middle hours 🌤️ · ☁️ Overcast Clouds · 🌡️ 32.43°C · 📅 BS: 5 Bhadra, 2083
+**Current Status:** Continuing with today’s priorities 📌 · 🌧️ Light Rain · 🌡️ 31.92°C · 📅 BS: 5 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
