@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A gentle evening rhythm 🕯️ · 🌧️ Light Rain · 🌡️ 30.79°C · 📅 BS: 5 Bhadra, 2083
+**Current Status:** Closing tasks with care and clarity ✅ · ☁️ Overcast Clouds · 🌡️ 28.5°C · 📅 BS: 5 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
