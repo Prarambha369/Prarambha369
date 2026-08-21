@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reflecting on lessons from today 🌿 · ⛈️ Light Rain · 🌡️ 28.02°C · 📅 BS: 5 Bhadra, 2083
+**Current Status:** Household chores and light reading 🧹 · ⛈️ Light Rain · 🌡️ 27.7°C · 📅 BS: 6 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
