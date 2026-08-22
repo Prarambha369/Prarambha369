@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight calm, gentle reset 🔋 · ⛈️ Light Rain · 🌡️ 26.72°C · 📅 BS: 7 Bhadra, 2083
+**Current Status:** Lights low, thoughts quiet 🌙 · ☁️ Overcast Clouds · 🌡️ 26.61°C · 📅 BS: 7 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
