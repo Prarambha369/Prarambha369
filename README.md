@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A quiet weekend pace ☕ · 🌧️ Light Rain · 🌡️ 31.22°C · 📅 BS: 6 Bhadra, 2083
+**Current Status:** Household chores and light reading 🧹 · 🌧️ Light Rain · 🌡️ 29.15°C · 📅 BS: 6 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
