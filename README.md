@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Taking time to rest and reset 🌿 · ☁️ Broken Clouds · 🌡️ 27.27°C · 📅 BS: 6 Bhadra, 2083
+**Current Status:** Closing the notebook for tonight 📒 · ⛈️ Light Rain · 🌡️ 27.08°C · 📅 BS: 7 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
