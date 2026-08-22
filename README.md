@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reading, reflection, and a slower rhythm 📖 · ☁️ Overcast Clouds · 🌡️ 27.21°C · 📅 BS: 6 Bhadra, 2083
+**Current Status:** A gentle pause before the new week 🌙 · ☁️ Overcast Clouds · 🌡️ 27.15°C · 📅 BS: 6 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
