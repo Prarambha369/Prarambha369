@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A quieter hour for thoughtful work 🕯️ · ⛈️ Moderate Rain · 🌡️ 27.03°C · 📅 BS: 7 Bhadra, 2083
+**Current Status:** Quiet midnight reflections 🕯️ · ☁️ Overcast Clouds · 🌡️ 27°C · 📅 BS: 8 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
