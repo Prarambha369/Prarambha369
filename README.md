@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A brief pause before sleep 🛏️ · ⛈️ Light Rain · 🌡️ 26.71°C · 📅 BS: 8 Bhadra, 2083
+**Current Status:** Closing the notebook for tonight 📒 · ☁️ Overcast Clouds · 🌡️ 26.59°C · 📅 BS: 8 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
