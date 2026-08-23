@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Steady work, calm focus, clear intent 🌼 · 🌧️ Moderate Rain · 🌡️ 32.02°C · 📅 BS: 7 Bhadra, 2083
+**Current Status:** Tidying notes and ending well 📓 · 🌧️ Moderate Rain · 🌡️ 30.43°C · 📅 BS: 7 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
