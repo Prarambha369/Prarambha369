@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Late hour—time to rest soon 💤 · ⛈️ Light Rain · 🌡️ 26.92°C · 📅 BS: 8 Bhadra, 2083
+**Current Status:** A brief pause before sleep 🛏️ · ⛈️ Light Rain · 🌡️ 26.71°C · 📅 BS: 8 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
