@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night session, calm and focused 🌌 · ☁️ Broken Clouds · 🌡️ 27.74°C · 📅 BS: 8 Bhadra, 2083
+**Current Status:** Lights low, thoughts quiet 🌙 · ⛈️ Light Rain · 🌡️ 27.3°C · 📅 BS: 9 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
