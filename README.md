@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Completing small tasks before rest ✅ · ☁️ Broken Clouds · 🌡️ 28.02°C · 📅 BS: 8 Bhadra, 2083
+**Current Status:** Night session, calm and focused 🌌 · ☁️ Broken Clouds · 🌡️ 27.74°C · 📅 BS: 8 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
