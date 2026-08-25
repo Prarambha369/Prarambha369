@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Making progress without hurry 🛤️ · 🌧️ Moderate Rain · 🌡️ 30.79°C · 📅 BS: 9 Bhadra, 2083
+**Current Status:** One task at a time, with patience 🌿 · 🌧️ Light Rain · 🌡️ 30.86°C · 📅 BS: 9 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
