@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight calm, gentle reset 🔋 · ☁️ Broken Clouds · 🌡️ 26.86°C · 📅 BS: 10 Bhadra, 2083
+**Current Status:** Day complete, mind at ease 🌿 · ☁️ Broken Clouds · 🌡️ 26.74°C · 📅 BS: 10 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
