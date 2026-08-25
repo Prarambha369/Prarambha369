@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Closing the day with gratitude 🙏 · ☁️ Overcast Clouds · 🌡️ 27.64°C · 📅 BS: 9 Bhadra, 2083
+**Current Status:** Rest now, continue tomorrow 🌅 · ☁️ Broken Clouds · 🌡️ 27.26°C · 📅 BS: 10 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
