@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Early notes and quiet concentration 📓 · 🌧️ Light Rain · 🌡️ 27.36°C · 📅 BS: 9 Bhadra, 2083
+**Current Status:** A clear mind for the morning tasks ✨ · 🌧️ Light Rain · 🌡️ 29.89°C · 📅 BS: 9 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
