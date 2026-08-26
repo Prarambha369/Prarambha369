@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Checking progress and adjusting plans 🗂️ · 🌧️ Light Rain · 🌡️ 31.45°C · 📅 BS: 10 Bhadra, 2083
+**Current Status:** One task at a time, with patience 🌿 · 🌧️ Light Rain · 🌡️ 31.49°C · 📅 BS: 10 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
