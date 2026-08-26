@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Closing the notebook for tonight 📒 · ☁️ Broken Clouds · 🌡️ 26.31°C · 📅 BS: 10 Bhadra, 2083
+**Current Status:** Early notes and quiet concentration 📓 · 🌤️ Scattered Clouds · 🌡️ 26.62°C · 📅 BS: 10 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
