@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Early notes and quiet concentration 📓 · 🌤️ Scattered Clouds · 🌡️ 26.62°C · 📅 BS: 10 Bhadra, 2083
+**Current Status:** Starting the day with tea and plans ☀️ · 🌧️ Light Rain · 🌡️ 29.06°C · 📅 BS: 10 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
