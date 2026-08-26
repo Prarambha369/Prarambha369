@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Composed effort through the day’s middle hours 🌤️ · 🌧️ Light Rain · 🌡️ 31.41°C · 📅 BS: 10 Bhadra, 2083
+**Current Status:** Consistency over speed this afternoon ⏱️ · 🌧️ Light Rain · 🌡️ 31.25°C · 📅 BS: 10 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
