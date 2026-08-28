@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Welcoming the day with purpose 🌅 · 🌧️ Light Rain · 🌡️ 26.47°C · 📅 BS: 12 Bhadra, 2083
+**Current Status:** Checking progress and adjusting plans 🗂️ · 🌧️ Moderate Rain · 🌡️ 32.49°C · 📅 BS: 12 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
