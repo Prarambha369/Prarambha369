@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A balanced day of rest and routine 🌼 · 🌧️ Moderate Rain · 🌡️ 26.87°C · 📅 BS: 13 Bhadra, 2083
+**Current Status:** Reading, reflection, and a slower rhythm 📖 · ☁️ Overcast Clouds · 🌡️ 28.29°C · 📅 BS: 13 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
