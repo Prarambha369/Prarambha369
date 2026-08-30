@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Day complete, mind at ease 🌿 · ⛈️ Light Rain · 🌡️ 26.27°C · 📅 BS: 14 Bhadra, 2083
+**Current Status:** First session: focus and consistency 📘 · 🌧️ Light Rain · 🌡️ 26.84°C · 📅 BS: 14 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
