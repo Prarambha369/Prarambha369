@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Composed effort through the day’s middle hours 🌤️ · 🌧️ Moderate Rain · 🌡️ 31.83°C · 📅 BS: 15 Bhadra, 2083
+**Current Status:** Reflecting on lessons from today 🌿 · ⛈️ Moderate Rain · 🌡️ 26.72°C · 📅 BS: 15 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
