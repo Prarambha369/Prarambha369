@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reviewing what’s done and what remains 📋 · ☁️ Overcast Clouds · 🌡️ 30.66°C · 📅 BS: 16 Bhadra, 2083
+**Current Status:** A calm end to a productive day 🌇 · ⛈️ Moderate Rain · 🌡️ 26.47°C · 📅 BS: 16 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
