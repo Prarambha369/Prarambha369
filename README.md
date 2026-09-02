@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm beginning to the day 🕊️ · ☁️ Overcast Clouds · 🌡️ 26.19°C · 📅 BS: 17 Bhadra, 2083
+**Current Status:** Midday discipline and measured progress ✅ · 🌧️ Light Rain · 🌡️ 30.23°C · 📅 BS: 17 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
