@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lights low, thoughts quiet 🌙 · ⛈️ Light Rain · 🌡️ 26.19°C · 📅 BS: 18 Bhadra, 2083
+**Current Status:** A clear mind for the morning tasks ✨ · ☁️ Overcast Clouds · 🌡️ 25.45°C · 📅 BS: 18 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
