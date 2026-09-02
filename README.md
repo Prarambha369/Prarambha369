@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Quiet midnight reflections 🕯️ · ⛈️ Light Rain · 🌡️ 25.71°C · 📅 BS: 18 Bhadra, 2083
+**Current Status:** Lights low, thoughts quiet 🌙 · ⛈️ Light Rain · 🌡️ 26.19°C · 📅 BS: 18 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
