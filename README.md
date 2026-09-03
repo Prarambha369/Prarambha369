@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Grateful for today’s progress 🙏 · 🌧️ Light Rain · 🌡️ 28.5°C · 📅 BS: 18 Bhadra, 2083
+**Current Status:** A peaceful night of careful planning 🧭 · ☁️ Few Clouds · 🌡️ 26.42°C · 📅 BS: 18 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
