@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A peaceful night of careful planning 🧭 · ☁️ Few Clouds · 🌡️ 26.42°C · 📅 BS: 18 Bhadra, 2083
+**Current Status:** A brief pause before sleep 🛏️ · ⛈️ Light Rain · 🌡️ 25.19°C · 📅 BS: 19 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
