@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A clear mind for the morning tasks ✨ · ☁️ Overcast Clouds · 🌡️ 25.45°C · 📅 BS: 18 Bhadra, 2083
+**Current Status:** First session: focus and consistency 📘 · 🌧️ Light Rain · 🌡️ 27.45°C · 📅 BS: 18 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
