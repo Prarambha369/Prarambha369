@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Steady work through the afternoon light 🌤️ · 🌧️ Light Rain · 🌡️ 31.26°C · 📅 BS: 19 Bhadra, 2083
+**Current Status:** Review hour before rest begins 📖 · 🌧️ Light Rain · 🌡️ 28.65°C · 📅 BS: 19 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
