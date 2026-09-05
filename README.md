@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A balanced day of rest and routine 🌼 · ☁️ Overcast Clouds · 🌡️ 29.55°C · 📅 BS: 20 Bhadra, 2083
+**Current Status:** Unhurried hours and thoughtful planning 📒 · 🌧️ Light Rain · 🌡️ 29.05°C · 📅 BS: 20 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
