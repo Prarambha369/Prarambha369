@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Catching up on personal work 🛠️ · ☁️ Overcast Clouds · 🌡️ 25.15°C · 📅 BS: 20 Bhadra, 2083
+**Current Status:** Weekend calm with small meaningful tasks ✅ · 🌧️ Light Rain · 🌡️ 27.82°C · 📅 BS: 20 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
