@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Rest now, continue tomorrow 🌅 · ⛈️ Light Rain · 🌡️ 24.77°C · 📅 BS: 21 Bhadra, 2083
+**Current Status:** Simple breakfast, steady priorities 🍞 · ☁️ Overcast Clouds · 🌡️ 24.71°C · 📅 BS: 21 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
