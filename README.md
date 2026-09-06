@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Checking progress and adjusting plans 🗂️ · 🌧️ Light Rain · 🌡️ 27.18°C · 📅 BS: 21 Bhadra, 2083
+**Current Status:** Reviewing what’s done and what remains 📋 · ☁️ Overcast Clouds · 🌡️ 30.35°C · 📅 BS: 21 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
