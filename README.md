@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Letting the day settle in silence ✨ · ☁️ Scattered Clouds · 🌡️ 25.82°C · 📅 BS: 23 Bhadra, 2083
+**Current Status:** Day complete, mind at ease 🌿 · ⛈️ Light Rain · 🌡️ 25.22°C · 📅 BS: 23 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
