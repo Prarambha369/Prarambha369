@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** One task at a time, with patience 🌿 · ☁️ Overcast Clouds · 🌡️ 28.48°C · 📅 BS: 22 Bhadra, 2083
+**Current Status:** Late focus, steady and unhurried ⏳ · ☁️ Overcast Clouds · 🌡️ 26.79°C · 📅 BS: 22 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
