@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Closing the notebook for tonight 📒 · ☁️ Overcast Clouds · 🌡️ 25.97°C · 📅 BS: 24 Bhadra, 2083
+**Current Status:** A clear mind for the morning tasks ✨ · 🌧️ Light Rain · 🌡️ 26.34°C · 📅 BS: 24 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
