@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Quiet effort through noon hours 🌿 · 🌧️ Light Rain · 🌡️ 31.89°C · 📅 BS: 24 Bhadra, 2083
+**Current Status:** A careful pace through the afternoon 🧠 · 🌧️ Light Rain · 🌡️ 30.89°C · 📅 BS: 24 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
