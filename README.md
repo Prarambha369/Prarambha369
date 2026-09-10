@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Morning discipline in motion ⏰ · ☁️ Overcast Clouds · 🌡️ 28.17°C · 📅 BS: 25 Bhadra, 2083
+**Current Status:** Continuing with focus, one task at a time 📌 · 🌧️ Light Rain · 🌡️ 32.86°C · 📅 BS: 25 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
