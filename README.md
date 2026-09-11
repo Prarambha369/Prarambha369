@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gentle progress under the night sky 🌙 · ⛈️ Light Rain · 🌡️ 27.17°C · 📅 BS: 26 Bhadra, 2083
+**Current Status:** Reading, reflection, and a slower rhythm 📖 · ☁️ Scattered Clouds · 🌡️ 26.04°C · 📅 BS: 27 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
