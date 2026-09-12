@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A gentle pause before the new week 🌙 · ⛅ Scattered Clouds · 🌡️ 32.39°C · 📅 BS: 27 Bhadra, 2083
+**Current Status:** Weekend calm with small meaningful tasks ✅ · 🌧️ Light Rain · 🌡️ 30.15°C · 📅 BS: 27 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
