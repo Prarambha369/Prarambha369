@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A balanced day of rest and routine 🌼 · ⛈️ Light Rain · 🌡️ 27.47°C · 📅 BS: 27 Bhadra, 2083
+**Current Status:** Weekend calm with small meaningful tasks ✅ · ☁️ Overcast Clouds · 🌡️ 26.36°C · 📅 BS: 27 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
