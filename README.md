@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First session: focus and consistency 📘 · 🌧️ Light Rain · 🌡️ 27.74°C · 📅 BS: 28 Bhadra, 2083
+**Current Status:** Steady work through the afternoon light 🌤️ · 🌧️ Moderate Rain · 🌡️ 30.38°C · 📅 BS: 28 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
