@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Evening study and reflection 🌙 · ⛈️ Light Rain · 🌡️ 26.38°C · 📅 BS: 29 Bhadra, 2083
+**Current Status:** Letting the day settle in silence ✨ · ☁️ Overcast Clouds · 🌡️ 25.63°C · 📅 BS: 30 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
