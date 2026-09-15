@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Day complete, mind at ease 🌿 · 🌙 Clear Sky · 🌡️ 24.61°C · 📅 BS: 31 Bhadra, 2083
+**Current Status:** Lights low, thoughts quiet 🌙 · ☁️ Few Clouds · 🌡️ 24.09°C · 📅 BS: 31 Bhadra, 2083
 
 </div>
 <!-- WEATHER_END -->
