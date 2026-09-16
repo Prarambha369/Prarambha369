@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Late focus, steady and unhurried ⏳ · 🌙 Clear Sky · 🌡️ 25.19°C · 📅 BS: 31 Bhadra, 2083
+**Current Status:** Closing the notebook for tonight 📒 · ☁️ Scattered Clouds · 🌡️ 24.8°C · 📅 BS: 1 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
