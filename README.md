@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reading and planning for tomorrow 📖 · 🌙 Clear Sky · 🌡️ 25.29°C · 📅 BS: 1 Ashwin, 2083
+**Current Status:** A brief pause before sleep 🛏️ · ⛈️ Light Rain · 🌡️ 24.16°C · 📅 BS: 2 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
