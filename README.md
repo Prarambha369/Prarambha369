@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Morning discipline in motion ⏰ · 🌤️ Few Clouds · 🌡️ 26.81°C · 📅 BS: 1 Ashwin, 2083
+**Current Status:** Quiet effort through noon hours 🌿 · 🌧️ Light Rain · 🌡️ 30.51°C · 📅 BS: 1 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
