@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Closing tasks with care and clarity ✅ · ⛅ Scattered Clouds · 🌡️ 28.06°C · 📅 BS: 2 Ashwin, 2083
+**Current Status:** Evening study and reflection 🌙 · 🌙 Clear Sky · 🌡️ 25.43°C · 📅 BS: 2 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
