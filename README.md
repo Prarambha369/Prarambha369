@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Household chores and light reading 🧹 · ⛈️ Moderate Rain · 🌡️ 23.32°C · 📅 BS: 3 Ashwin, 2083
+**Current Status:** A gentle pause before the new week 🌙 · ⛅ Broken Clouds · 🌡️ 23.27°C · 📅 BS: 3 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
