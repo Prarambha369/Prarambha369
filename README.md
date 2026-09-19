@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A balanced day of rest and routine 🌼 · ☁️ Scattered Clouds · 🌡️ 25.54°C · 📅 BS: 3 Ashwin, 2083
+**Current Status:** Day complete, mind at ease 🌿 · ☁️ Overcast Clouds · 🌡️ 25.18°C · 📅 BS: 4 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
