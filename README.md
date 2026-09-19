@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A gentle pause before the new week 🌙 · ⛅ Broken Clouds · 🌡️ 23.27°C · 📅 BS: 3 Ashwin, 2083
+**Current Status:** Reading, reflection, and a slower rhythm 📖 · ☁️ Broken Clouds · 🌡️ 25.84°C · 📅 BS: 3 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
