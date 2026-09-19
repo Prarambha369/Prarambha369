@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Taking time to rest and reset 🌿 · 🌧️ Light Rain · 🌡️ 30.4°C · 📅 BS: 3 Ashwin, 2083
+**Current Status:** Unhurried hours and thoughtful planning 📒 · 🌧️ Light Rain · 🌡️ 28.26°C · 📅 BS: 3 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
