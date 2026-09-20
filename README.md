@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midday work in progress 🧾 · 🌤️ Scattered Clouds · 🌡️ 33.41°C · 📅 BS: 4 Ashwin, 2083
+**Current Status:** Review hour before rest begins 📖 · ⛅ Scattered Clouds · 🌡️ 28.22°C · 📅 BS: 4 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
