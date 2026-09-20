@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Review hour before rest begins 📖 · ⛅ Scattered Clouds · 🌡️ 28.22°C · 📅 BS: 4 Ashwin, 2083
+**Current Status:** Completing small tasks before rest ✅ · ☁️ Scattered Clouds · 🌡️ 26.77°C · 📅 BS: 4 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
