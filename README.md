@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Late hour—time to rest soon 💤 · ☁️ Few Clouds · 🌡️ 25.6°C · 📅 BS: 5 Ashwin, 2083
+**Current Status:** Closing the notebook for tonight 📒 · ☁️ Scattered Clouds · 🌡️ 25.22°C · 📅 BS: 5 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
