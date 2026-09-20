@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Morning routine and fresh focus 🌼 · ⛅ Broken Clouds · 🌡️ 24.6°C · 📅 BS: 4 Ashwin, 2083
+**Current Status:** Building momentum for the day ahead 🌱 · 🌤️ Few Clouds · 🌡️ 27.43°C · 📅 BS: 4 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
