@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Review hour before rest begins 📖 · 🌙 Clear Sky · 🌡️ 26.71°C · 📅 BS: 5 Ashwin, 2083
+**Current Status:** Midnight calm, gentle reset 🔋 · 🌙 Clear Sky · 🌡️ 25.03°C · 📅 BS: 6 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
