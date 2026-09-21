@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm beginning to the day 🕊️ · 🌤️ Few Clouds · 🌡️ 27.95°C · 📅 BS: 5 Ashwin, 2083
+**Current Status:** A brief pause before the next task 🍱 · 🌤️ Few Clouds · 🌡️ 32.33°C · 📅 BS: 5 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
