@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A brief pause before the next task 🍱 · 🌤️ Few Clouds · 🌡️ 32.33°C · 📅 BS: 5 Ashwin, 2083
+**Current Status:** Review hour before rest begins 📖 · 🌙 Clear Sky · 🌡️ 26.71°C · 📅 BS: 5 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
