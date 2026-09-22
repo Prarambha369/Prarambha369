@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Completing small tasks before rest ✅ · ⛈️ Light Rain · 🌡️ 26.06°C · 📅 BS: 6 Ashwin, 2083
+**Current Status:** Lights low, thoughts quiet 🌙 · ☁️ Scattered Clouds · 🌡️ 24.79°C · 📅 BS: 7 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
