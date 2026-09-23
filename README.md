@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Simple breakfast, steady priorities 🍞 · ☀️ Clear Sky · 🌡️ 27.59°C · 📅 BS: 7 Ashwin, 2083
+**Current Status:** Steady work through the afternoon light 🌤️ · 🌧️ Light Rain · 🌡️ 32.84°C · 📅 BS: 7 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
