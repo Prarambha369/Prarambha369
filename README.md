@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reflecting on lessons from today 🌿 · ⛈️ Moderate Rain · 🌡️ 23.98°C · 📅 BS: 7 Ashwin, 2083
+**Current Status:** Day complete, mind at ease 🌿 · ☁️ Broken Clouds · 🌡️ 23.83°C · 📅 BS: 8 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
