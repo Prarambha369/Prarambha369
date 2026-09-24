@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Early notes and quiet concentration 📓 · 🌧️ Light Rain · 🌡️ 24.9°C · 📅 BS: 8 Ashwin, 2083
+**Current Status:** Simple lunch, then back to work 🍛 · 🌧️ Moderate Rain · 🌡️ 24.08°C · 📅 BS: 8 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
