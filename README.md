@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm end to a productive day 🌇 · 🌧️ Moderate Rain · 🌡️ 23.34°C · 📅 BS: 8 Ashwin, 2083
+**Current Status:** A peaceful night of careful planning 🧭 · ☁️ Overcast Clouds · 🌡️ 22.85°C · 📅 BS: 8 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
