@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Welcoming the day with purpose 🌅 · 🌧️ Light Rain · 🌡️ 22.76°C · 📅 BS: 9 Ashwin, 2083
+**Current Status:** Sustaining momentum with patience ⏳ · 🌧️ Moderate Rain · 🌡️ 23.41°C · 📅 BS: 9 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
