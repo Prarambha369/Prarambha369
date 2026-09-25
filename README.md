@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Final revisions for tomorrow’s goals 🧾 · 🌧️ Light Rain · 🌡️ 22.72°C · 📅 BS: 9 Ashwin, 2083
+**Current Status:** Dashain Vibes 🪁 · Celebrating with family · ⛈️ Moderate Rain · 🌡️ 22.61°C · 📅 BS: 10 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
