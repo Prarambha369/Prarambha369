@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Dashain Vibes 🪁 · Celebrating with family · ⛈️ Heavy Intensity Rain · 🌡️ 22.26°C · 📅 BS: 10 Ashwin, 2083
+**Current Status:** Dashain Vibes 🪁 · Celebrating with family · ⛈️ Light Rain · 🌡️ 23.13°C · 📅 BS: 10 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
