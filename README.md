@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reading, reflection, and a slower rhythm 📖 · 🌙 Clear Sky · 🌡️ 24.42°C · 📅 BS: 17 Ashwin, 2083
+**Current Status:** Unhurried hours and thoughtful planning 📒 · ☀️ Clear Sky · 🌡️ 23.64°C · 📅 BS: 17 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
