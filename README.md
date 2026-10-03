@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A balanced day of rest and routine 🌼 · ☀️ Clear Sky · 🌡️ 25.49°C · 📅 BS: 17 Ashwin, 2083
+**Current Status:** A balanced day of rest and routine 🌼 · ☁️ Few Clouds · 🌡️ 24.76°C · 📅 BS: 17 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
