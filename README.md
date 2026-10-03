@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Letting the day settle in silence ✨ · 🌙 Clear Sky · 🌡️ 24.07°C · 📅 BS: 18 Ashwin, 2083
+**Current Status:** Starting the day with tea and plans ☀️ · ☀️ Clear Sky · 🌡️ 23.22°C · 📅 BS: 18 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
