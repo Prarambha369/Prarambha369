@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Unhurried hours and thoughtful planning 📒 · ☀️ Clear Sky · 🌡️ 23.64°C · 📅 BS: 17 Ashwin, 2083
+**Current Status:** A quiet weekend pace ☕ · ☀️ Clear Sky · 🌡️ 26.47°C · 📅 BS: 17 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
