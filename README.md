@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Steady work through the afternoon light 🌤️ · 🌧️ Light Rain · 🌡️ 30.08°C · 📅 BS: 19 Ashwin, 2083
+**Current Status:** Preparing mind and notes for a new day 📘 · ☁️ Broken Clouds · 🌡️ 24.23°C · 📅 BS: 19 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
