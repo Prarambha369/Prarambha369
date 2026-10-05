@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Rest now, continue tomorrow 🌅 · ⛈️ Moderate Rain · 🌡️ 23.76°C · 📅 BS: 19 Ashwin, 2083
+**Current Status:** Early notes and quiet concentration 📓 · 🌧️ Light Rain · 🌡️ 24.11°C · 📅 BS: 19 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
