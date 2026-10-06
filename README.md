@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight calm, gentle reset 🔋 · ☁️ Scattered Clouds · 🌡️ 23.27°C · 📅 BS: 20 Ashwin, 2083
+**Current Status:** Early notes and quiet concentration 📓 · 🌧️ Light Rain · 🌡️ 25.72°C · 📅 BS: 20 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
