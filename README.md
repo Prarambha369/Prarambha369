@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Night session, calm and focused 🌌 · ☁️ Few Clouds · 🌡️ 23.32°C · 📅 BS: 20 Ashwin, 2083
+**Current Status:** A calm ending to a full day 🙏 · 🌙 Clear Sky · 🌡️ 22.61°C · 📅 BS: 21 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
