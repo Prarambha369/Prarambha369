@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm ending to a full day 🙏 · 🌙 Clear Sky · 🌡️ 22.61°C · 📅 BS: 21 Ashwin, 2083
+**Current Status:** A clear mind for the morning tasks ✨ · 🌧️ Light Rain · 🌡️ 22.76°C · 📅 BS: 21 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
