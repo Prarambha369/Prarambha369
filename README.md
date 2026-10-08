@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm end to a productive day 🌇 · 🌤️ Few Clouds · 🌡️ 23.22°C · 📅 BS: 22 Ashwin, 2083
+**Current Status:** Closing the notebook for tonight 📒 · 🌙 Clear Sky · 🌡️ 21.78°C · 📅 BS: 23 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
