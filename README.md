@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A brief pause before sleep 🛏️ · ⛈️ Light Rain · 🌡️ 22.26°C · 📅 BS: 22 Ashwin, 2083
+**Current Status:** Early notes and quiet concentration 📓 · 🌧️ Light Rain · 🌡️ 22.04°C · 📅 BS: 22 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
