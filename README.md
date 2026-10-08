@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Continuing with focus, one task at a time 📌 · 🌧️ Light Rain · 🌡️ 29.09°C · 📅 BS: 22 Ashwin, 2083
+**Current Status:** A calm end to a productive day 🌇 · 🌤️ Few Clouds · 🌡️ 23.22°C · 📅 BS: 22 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
