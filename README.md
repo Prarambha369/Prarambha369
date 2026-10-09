@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Tidying notes and ending well 📓 · 🌧️ Light Rain · 🌡️ 22.83°C · 📅 BS: 23 Ashwin, 2083
+**Current Status:** Catching up on personal work 🛠️ · ☁️ Overcast Clouds · 🌡️ 21.26°C · 📅 BS: 24 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
