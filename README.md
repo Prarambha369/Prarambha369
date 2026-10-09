@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Starting the day with tea and plans ☀️ · ☀️ Clear Sky · 🌡️ 21.26°C · 📅 BS: 23 Ashwin, 2083
+**Current Status:** Quiet effort through noon hours 🌿 · 🌧️ Moderate Rain · 🌡️ 26.96°C · 📅 BS: 23 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
