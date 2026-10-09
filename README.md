@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Quiet effort through noon hours 🌿 · 🌧️ Moderate Rain · 🌡️ 26.96°C · 📅 BS: 23 Ashwin, 2083
+**Current Status:** Tidying notes and ending well 📓 · 🌧️ Light Rain · 🌡️ 22.83°C · 📅 BS: 23 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
