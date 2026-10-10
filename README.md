@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Simple weekend, peaceful mind 🌤️ · 🌤️ Few Clouds · 🌡️ 20.41°C · 📅 BS: 24 Ashwin, 2083
+**Current Status:** Taking time to rest and reset 🌿 · ☀️ Clear Sky · 🌡️ 25.48°C · 📅 BS: 24 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
