@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Consistency over speed this afternoon ⏱️ · ☀️ Clear Sky · 🌡️ 29.65°C · 📅 BS: 26 Ashwin, 2083
+**Current Status:** Closing the notebook for tonight 📒 · 🌙 Clear Sky · 🌡️ 22.06°C · 📅 BS: 27 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
