@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Closing the notebook for tonight 📒 · 🌙 Clear Sky · 🌡️ 22.06°C · 📅 BS: 27 Ashwin, 2083
+**Current Status:** Welcoming the day with purpose 🌅 · ☀️ Clear Sky · 🌡️ 24.41°C · 📅 BS: 27 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
