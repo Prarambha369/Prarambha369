@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Steady work, calm focus, clear intent 🌼 · ☀️ Clear Sky · 🌡️ 29.93°C · 📅 BS: 27 Ashwin, 2083
+**Current Status:** Gentle progress under the night sky 🌙 · 🌙 Clear Sky · 🌡️ 23.68°C · 📅 BS: 27 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
