@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Gentle progress under the night sky 🌙 · 🌙 Clear Sky · 🌡️ 23.68°C · 📅 BS: 27 Ashwin, 2083
+**Current Status:** Midnight calm, gentle reset 🔋 · 🌙 Clear Sky · 🌡️ 22.03°C · 📅 BS: 28 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
