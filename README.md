@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reviewing what’s done and what remains 📋 · ☀️ Clear Sky · 🌡️ 27.73°C · 📅 BS: 28 Ashwin, 2083
+**Current Status:** Preparing mind and notes for a new day 📘 · 🌙 Clear Sky · 🌡️ 23.84°C · 📅 BS: 28 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
