@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Composed effort through the day’s middle hours 🌤️ · ⛅ Scattered Clouds · 🌡️ 29.09°C · 📅 BS: 29 Ashwin, 2083
+**Current Status:** Preparing mind and notes for a new day 📘 · 🌙 Clear Sky · 🌡️ 22.99°C · 📅 BS: 29 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
