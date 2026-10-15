@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A balanced midday rhythm ⚖️ · ☀️ Clear Sky · 🌡️ 29.72°C · 📅 BS: 29 Ashwin, 2083
+**Current Status:** Composed effort through the day’s middle hours 🌤️ · ⛅ Scattered Clouds · 🌡️ 29.09°C · 📅 BS: 29 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
