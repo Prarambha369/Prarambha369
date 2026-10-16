@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Continuing with today’s priorities 📌 · 🌧️ Light Rain · 🌡️ 28.16°C · 📅 BS: 30 Ashwin, 2083
+**Current Status:** A calm end to a productive day 🌇 · ☁️ Broken Clouds · 🌡️ 22.96°C · 📅 BS: 30 Ashwin, 2083
 
 </div>
 <!-- WEATHER_END -->
