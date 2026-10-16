@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm end to a productive day 🌇 · ☁️ Broken Clouds · 🌡️ 22.96°C · 📅 BS: 30 Ashwin, 2083
+**Current Status:** Reading, reflection, and a slower rhythm 📖 · ☁️ Few Clouds · 🌡️ 21.65°C · 📅 BS: 1 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
