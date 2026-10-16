@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Reading, reflection, and a slower rhythm 📖 · ☁️ Few Clouds · 🌡️ 21.65°C · 📅 BS: 1 Kartik, 2083
+**Current Status:** Catching up on personal work 🛠️ · 🌙 Clear Sky · 🌡️ 21.04°C · 📅 BS: 1 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
