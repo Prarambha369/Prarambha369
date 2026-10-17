@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A quiet weekend pace ☕ · 🌧️ Light Rain · 🌡️ 28.84°C · 📅 BS: 1 Kartik, 2083
+**Current Status:** Unhurried hours and thoughtful planning 📒 · ☁️ Overcast Clouds · 🌡️ 23.78°C · 📅 BS: 1 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
