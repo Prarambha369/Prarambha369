@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Lights low, thoughts quiet 🌙 · 🌙 Clear Sky · 🌡️ 21.4°C · 📅 BS: 2 Kartik, 2083
+**Current Status:** A calm ending to a full day 🙏 · 🌙 Clear Sky · 🌡️ 21.15°C · 📅 BS: 2 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
