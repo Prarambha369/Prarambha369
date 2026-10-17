@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A gentle pause before the new week 🌙 · ☁️ Broken Clouds · 🌡️ 22.27°C · 📅 BS: 1 Kartik, 2083
+**Current Status:** Lights low, thoughts quiet 🌙 · 🌙 Clear Sky · 🌡️ 21.4°C · 📅 BS: 2 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
