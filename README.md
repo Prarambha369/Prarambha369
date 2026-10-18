@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Sustaining momentum with patience ⏳ · 🌤️ Scattered Clouds · 🌡️ 28.76°C · 📅 BS: 2 Kartik, 2083
+**Current Status:** Wrapping up the day’s work 📘 · 🌤️ Scattered Clouds · 🌡️ 24.07°C · 📅 BS: 2 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
