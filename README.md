@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** First session: focus and consistency 📘 · ☀️ Clear Sky · 🌡️ 23.44°C · 📅 BS: 2 Kartik, 2083
+**Current Status:** Sustaining momentum with patience ⏳ · 🌤️ Scattered Clouds · 🌡️ 28.76°C · 📅 BS: 2 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
