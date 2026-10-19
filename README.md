@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Evening focus with fewer distractions 🌌 · 🌙 Clear Sky · 🌡️ 22.6°C · 📅 BS: 3 Kartik, 2083
+**Current Status:** Day complete, mind at ease 🌿 · 🌙 Clear Sky · 🌡️ 21.03°C · 📅 BS: 4 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
