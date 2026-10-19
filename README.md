@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Morning routine and fresh focus 🌼 · ☀️ Clear Sky · 🌡️ 23.07°C · 📅 BS: 3 Kartik, 2083
+**Current Status:** A balanced midday rhythm ⚖️ · 🌤️ Few Clouds · 🌡️ 28.67°C · 📅 BS: 3 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
