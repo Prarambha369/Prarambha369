@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Midnight calm, gentle reset 🔋 · 🌙 Clear Sky · 🌡️ 21.11°C · 📅 BS: 6 Kartik, 2083
+**Current Status:** Day complete, mind at ease 🌿 · 🌙 Clear Sky · 🌡️ 20.47°C · 📅 BS: 6 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
