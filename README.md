@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Quiet afternoon productivity ✨ · 🌤️ Few Clouds · 🌡️ 27.37°C · 📅 BS: 5 Kartik, 2083
+**Current Status:** A peaceful night of careful planning 🧭 · 🌙 Clear Sky · 🌡️ 22.48°C · 📅 BS: 5 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
