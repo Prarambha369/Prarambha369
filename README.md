@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Quiet midnight reflections 🕯️ · 🌙 Clear Sky · 🌡️ 20.5°C · 📅 BS: 5 Kartik, 2083
+**Current Status:** Morning routine and fresh focus 🌼 · ☀️ Clear Sky · 🌡️ 20.28°C · 📅 BS: 5 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
