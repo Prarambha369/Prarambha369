@@ -49,10 +49,7 @@
 [![Butwal Hacks](https://img.shields.io/badge/Butwal_Hacks-ff0000?style=for-the-badge&color=ff0000&height=28)](https://butwalhacks.com)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&height=28)](https://github.com/sponsors/Prarambha369)
-<!-- START BADGE -->
-<img src="https://img.shields.io/badge/Total%20views-0-limegreen" alt="Total views">
-<p>Refresh Date: 2026-10-22</p>
-<!-- END BADGE -->
+![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&style=for-the-badge&color=orange)
 
 </div>
 
@@ -195,7 +192,12 @@ Filesystem           Depth    Proficiency Level
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prarambha369/Prarambha369/main/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%;" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prarambha369&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=F59E0B&text_color=8b8b8b&icon_color=0891B2&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prarambha369&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=F59E0B&text_color=8b8b8b" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prarambha369&theme=github_dark" style="max-width: 100%;" />
 
 </div>
 
