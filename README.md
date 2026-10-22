@@ -49,7 +49,7 @@
 [![Butwal Hacks](https://img.shields.io/badge/Butwal_Hacks-ff0000?style=for-the-badge&color=ff0000&height=28)](https://butwalhacks.com)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&height=28)](https://github.com/sponsors/Prarambha369)
-![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&color=F59E0B&style=for-the-badge&label=visitors&labelColor=0a0a0a&height=28)
+![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&style=for-the-badge&color=orange)
 
 </div>
 
@@ -175,10 +175,14 @@ Filesystem           Depth    Proficiency Level
 ### `cat /proc/metrics` 
 
 <div align="center">
-    
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prarambha369&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=F59E0B&text_color=8b8b8b&icon_color=0891B2&rank_icon=github" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prarambha369&theme=dark&hide_border=true&background=0a0a0a&stroke=F59E0B&ring=F59E0B&fire=0891B2&currStreakLabel=F59E0B&sideLabels=8b8b8b&dates=8b8b8b" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prarambha369&theme=high-contrast&hide_border=true&bg_color=0a0a0a&color=8b8b8b&line=F59E0B&point=0891B2&area=true&area_color=F59E0B" />
+<br/>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prarambha369&hide_border=true&bg_color=0a0a0a&color=8b8b8b&line=f59e0b&point=0891b2&area=true" />
 
 </div>
 
@@ -188,17 +192,12 @@ Filesystem           Depth    Proficiency Level
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prarambha369&theme=transparent" style="max-width: 100%;" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prarambha369&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=F59E0B&text_color=8b8b8b&icon_color=0891B2&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prarambha369&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=F59E0B&text_color=8b8b8b" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prarambha369&theme=transparent" width="49%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prarambha369&theme=transparent" width="49%" />
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prarambha369&theme=transparent" width="49%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prarambha369&theme=transparent&utcOffset=5.75" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prarambha369&theme=github_dark" style="max-width: 100%;" />
 
 </div>
 
@@ -312,4 +311,3 @@ COPYRIGHT
 **Built with:** `Vim` · `Git` · `Coffee` · `Open Source Spirit` ☕💻
 
 </div>
-
