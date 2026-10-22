@@ -49,7 +49,10 @@
 [![Butwal Hacks](https://img.shields.io/badge/Butwal_Hacks-ff0000?style=for-the-badge&color=ff0000&height=28)](https://butwalhacks.com)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&height=28)](https://github.com/sponsors/Prarambha369)
-![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&style=for-the-badge&color=orange)
+<!-- START BADGE -->
+<img src="https://img.shields.io/badge/Total%20views-0-limegreen" alt="Total views">
+<p>Refresh Date: 2026-10-22</p>
+<!-- END BADGE -->
 
 </div>
 
