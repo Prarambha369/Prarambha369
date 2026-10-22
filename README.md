@@ -49,7 +49,7 @@
 [![Butwal Hacks](https://img.shields.io/badge/Butwal_Hacks-ff0000?style=for-the-badge&color=ff0000&height=28)](https://butwalhacks.com)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&height=28)](https://github.com/sponsors/Prarambha369)
-![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&color=F59E0B&style=for-the-badge&label=visitors&labelColor=0a0a0a&height=28)
+![Profile Views](https://komarev.com/ghpvc/?username=Prarambha369&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS)
 
 </div>
 
@@ -178,7 +178,7 @@ Filesystem           Depth    Proficiency Level
     
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prarambha369&theme=dark&hide_border=true&background=0a0a0a&stroke=F59E0B&ring=F59E0B&fire=0891B2&currStreakLabel=F59E0B&sideLabels=8b8b8b&dates=8b8b8b" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prarambha369&theme=high-contrast&hide_border=true&bg_color=0a0a0a&color=8b8b8b&line=F59E0B&point=0891B2&area=true&area_color=F59E0B" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prarambha369&hide_border=true&bg_color=0a0a0a&color=8b8b8b&line=F59E0B&point=0891B2&area=true&area_color=F59E0B" />
 
 </div>
 
