@@ -175,8 +175,12 @@ Filesystem           Depth    Proficiency Level
 ### `cat /proc/metrics` 
 
 <div align="center">
-    
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prarambha369&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=F59E0B&text_color=8b8b8b&icon_color=0891B2&rank_icon=github" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prarambha369&theme=dark&hide_border=true&background=0a0a0a&stroke=F59E0B&ring=F59E0B&fire=0891B2&currStreakLabel=F59E0B&sideLabels=8b8b8b&dates=8b8b8b" />
+
+<br/>
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prarambha369&hide_border=true&bg_color=0a0a0a&color=8b8b8b&line=F59E0B&point=0891B2&area=true&area_color=F59E0B" />
 
@@ -188,17 +192,17 @@ Filesystem           Depth    Proficiency Level
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prarambha369&theme=transparent" style="max-width: 100%;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prarambha369&theme=transparent" style="max-width: 100%;" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prarambha369&theme=transparent" width="49%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prarambha369&theme=transparent" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prarambha369&theme=transparent" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prarambha369&theme=transparent" width="49%" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prarambha369&theme=transparent" width="49%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prarambha369&theme=transparent&utcOffset=5.75" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prarambha369&theme=transparent" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prarambha369&theme=transparent&utcOffset=5.75" width="49%" />
 
 </div>
 
@@ -312,4 +316,3 @@ COPYRIGHT
 **Built with:** `Vim` · `Git` · `Coffee` · `Open Source Spirit` ☕💻
 
 </div>
-
