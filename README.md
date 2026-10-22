@@ -192,17 +192,7 @@ Filesystem           Depth    Proficiency Level
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prarambha369&theme=transparent" style="max-width: 100%;" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prarambha369&theme=transparent" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prarambha369&theme=transparent" width="49%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prarambha369&theme=transparent" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prarambha369&theme=transparent&utcOffset=5.75" width="49%" />
+<img src="https://raw.githubusercontent.com/Prarambha369/Prarambha369/main/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%;" />
 
 </div>
 
