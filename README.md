@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A brief pause before the next task 🍱 · ☀️ Clear Sky · 🌡️ 29.64°C · 📅 BS: 6 Kartik, 2083
+**Current Status:** Tidying notes and ending well 📓 · ☀️ Clear Sky · 🌡️ 23.52°C · 📅 BS: 6 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
