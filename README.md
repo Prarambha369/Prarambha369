@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Building momentum for the day ahead 🌱 · ☀️ Clear Sky · 🌡️ 19.95°C · 📅 BS: 7 Kartik, 2083
+**Current Status:** Building momentum for the day ahead 🌱 · ☀️ Clear Sky · 🌡️ 23°C · 📅 BS: 7 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
