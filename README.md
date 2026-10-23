@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Late focus, steady and unhurried ⏳ · 🌙 Clear Sky · 🌡️ 21.28°C · 📅 BS: 7 Kartik, 2083
+**Current Status:** Reading, reflection, and a slower rhythm 📖 · 🌙 Clear Sky · 🌡️ 20.41°C · 📅 BS: 8 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
