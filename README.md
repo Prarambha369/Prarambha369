@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A gentle evening rhythm 🕯️ · ☀️ Clear Sky · 🌡️ 22.88°C · 📅 BS: 7 Kartik, 2083
+**Current Status:** Late focus, steady and unhurried ⏳ · 🌙 Clear Sky · 🌡️ 21.28°C · 📅 BS: 7 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
