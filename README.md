@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Weekend calm with small meaningful tasks ✅ · ☀️ Clear Sky · 🌡️ 29.6°C · 📅 BS: 8 Kartik, 2083
+**Current Status:** A quiet weekend pace ☕ · ☀️ Clear Sky · 🌡️ 23.51°C · 📅 BS: 8 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
