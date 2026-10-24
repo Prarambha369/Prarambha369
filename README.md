@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** A calm ending to a full day 🙏 · 🌙 Clear Sky · 🌡️ 21.05°C · 📅 BS: 9 Kartik, 2083
+**Current Status:** Closing the notebook for tonight 📒 · 🌙 Clear Sky · 🌡️ 20.04°C · 📅 BS: 9 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
