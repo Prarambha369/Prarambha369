@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Early notes and quiet concentration 📓 · ☀️ Clear Sky · 🌡️ 19.65°C · 📅 BS: 9 Kartik, 2083
+**Current Status:** Steady work through the afternoon light 🌤️ · ☀️ Clear Sky · 🌡️ 28.12°C · 📅 BS: 9 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
