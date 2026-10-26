@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Preparing mind and notes for a new day 📘 · 🌙 Clear Sky · 🌡️ 20.66°C · 📅 BS: 10 Kartik, 2083
+**Current Status:** Day complete, mind at ease 🌿 · 🌙 Clear Sky · 🌡️ 19.41°C · 📅 BS: 11 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
