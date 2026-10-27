@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Preparing mind and notes for a new day 📘 · ☁️ Scattered Clouds · 🌡️ 21.44°C · 📅 BS: 11 Kartik, 2083
+**Current Status:** Tihar Lights 🪔 · Celebrating with family · ☁️ Overcast Clouds · 🌡️ 20.16°C · 📅 BS: 12 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
