@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Welcoming the day with purpose 🌅 · ☀️ Clear Sky · 🌡️ 18.98°C · 📅 BS: 11 Kartik, 2083
+**Current Status:** A balanced midday rhythm ⚖️ · ☀️ Clear Sky · 🌡️ 30.61°C · 📅 BS: 11 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
