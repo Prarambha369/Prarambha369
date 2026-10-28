@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Tihar Lights 🪔 · Celebrating with family · ⛅ Broken Clouds · 🌡️ 29.73°C · 📅 BS: 12 Kartik, 2083
+**Current Status:** Tihar Lights 🪔 · Celebrating with family · ☁️ Overcast Clouds · 🌡️ 23.17°C · 📅 BS: 12 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
