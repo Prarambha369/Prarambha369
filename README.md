@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Tihar Lights 🪔 · Celebrating with family · ⛈️ Heavy Intensity Rain · 🌡️ 21.26°C · 📅 BS: 15 Kartik, 2083
+**Current Status:** Tihar Lights 🪔 · Celebrating with family · 🌧️ Moderate Rain · 🌡️ 20.75°C · 📅 BS: 15 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
