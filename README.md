@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Focused learning with a calm mind 🌿 · ⛅ Broken Clouds · 🌡️ 27.06°C · 📅 BS: 16 Kartik, 2083
+**Current Status:** Revision time and steady focus ✍️ · ☁️ Overcast Clouds · 🌡️ 23.78°C · 📅 BS: 16 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
