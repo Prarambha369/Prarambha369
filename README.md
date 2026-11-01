@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Preparing notes for upcoming exams 📝 · 🌙 Clear Sky · 🌡️ 20.52°C · 📅 BS: 16 Kartik, 2083
+**Current Status:** Focused learning with a calm mind 🌿 · ☀️ Clear Sky · 🌡️ 22.44°C · 📅 BS: 16 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
