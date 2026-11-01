@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Revision time and steady focus ✍️ · ☁️ Overcast Clouds · 🌡️ 23.78°C · 📅 BS: 16 Kartik, 2083
+**Current Status:** Practice, patience, and persistence today 🧠 · ☁️ Scattered Clouds · 🌡️ 21.54°C · 📅 BS: 17 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
