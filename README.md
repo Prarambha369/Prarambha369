@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Practice, patience, and persistence today 🧠 · ☁️ Scattered Clouds · 🌡️ 21.54°C · 📅 BS: 17 Kartik, 2083
+**Current Status:** Study hours in progress 📚 · ☁️ Scattered Clouds · 🌡️ 21°C · 📅 BS: 17 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
