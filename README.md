@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Staying consistent through exam season ⏳ · ☀️ Clear Sky · 🌡️ 24.57°C · 📅 BS: 17 Kartik, 2083
+**Current Status:** A disciplined day of preparation 📌 · 🌧️ Light Rain · 🌡️ 26.72°C · 📅 BS: 17 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
