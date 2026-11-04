@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Study hours in progress 📚 · ⛅ Broken Clouds · 🌡️ 24.03°C · 📅 BS: 19 Kartik, 2083
+**Current Status:** Small steps, steady progress 🌱 · 🌙 Clear Sky · 🌡️ 21.03°C · 📅 BS: 20 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
