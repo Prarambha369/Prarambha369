@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Library mood and calm concentration 📖 · 🌙 Clear Sky · 🌡️ 21.75°C · 📅 BS: 22 Kartik, 2083
+**Current Status:** Study hours in progress 📚 · 🌙 Clear Sky · 🌡️ 20.2°C · 📅 BS: 23 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
