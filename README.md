@@ -30,7 +30,7 @@
 <!-- WEATHER_START -->
 <div align="center">
 
-**Current Status:** Preparing notes for upcoming exams 📝 · ☀️ Clear Sky · 🌡️ 27.92°C · 📅 BS: 23 Kartik, 2083
+**Current Status:** Practice, patience, and persistence today 🧠 · 🌙 Clear Sky · 🌡️ 21.07°C · 📅 BS: 23 Kartik, 2083
 
 </div>
 <!-- WEATHER_END -->
